@@ -1,0 +1,1024 @@
+Number_of_Video,Text,Annotation,Textual_Sentiment_Analysis,Audio_Sentiment_Analysis,Video_Sentiment_Analysis,Start_Frame,End_Frame
+1,Klagen,negative,negative,neutral,neutral,369,370
+2,nichts als Klagen.,negative,neutral,negative,neutral,372,373
+3,Bittschriften nichts als Bittschriften die traurigen Geschäfte,negative,negative,negative,neutral,375,383
+4,und man beneidet uns noch.,negative,negative,negative,neutral,384,386
+5,Das glaube ich.,neutral,neutral,negative,neutral,388,389
+6,Wenn wir allen helfen könnten.,negative,positive,negative,neutral,390,392
+7,Dann wären wir zu beneiden.,negative,negative,neutral,neutral,393,395
+8,"Emilia, eine Emilia aber eine Emilia Bruneschi.",negative,neutral,negative,neutral,405,414
+9,nicht Galotti,negative,negative,negative,neutral,416,417
+10,nicht,negative,negative,negative,neutral,418,419
+11,Emilia,neutral,neutral,negative,neutral,420,421
+12,Galotti,neutral,neutral,negative,neutral,422,423
+13,was will sie diese Emilia Bruneschi,negative,neutral,negative,neutral,425,427
+14,viel,negative,neutral,neutral,neutral,432,432
+15,"sehr viel, aber sie heißt Emilia.",positive,positive,neutral,neutral,434,438
+16,gewähr,positive,neutral,neutral,neutral,440,441
+17,"Da ist wohl noch keiner von den Räten in dem Vorzimmer. Nein, ich habe zu früh Tag gemacht. Ja, morgen ist so schön, ich will ausfahren, der Marquese Marinelli",positive,positive,negative,neutral,489,508
+18,Ich kann doch nicht mehr arbeiten.,negative,negative,negative,neutral,516,522
+19,Ich war so ruhig bild ich mir ein.,neutral,positive,negative,positive,523,525
+20,"So, aber man muss eine arme Bolognesqui Emilia.",negative,negative,negative,negative,526,531
+21,Weg ist meine Ruhe.,negative,positive,negative,neutral,533,534
+22,Nach der Marquese ist geschickt und hier ein Brief von der Grafin Orsina.,neutral,positive,negative,neutral,538,554
+23,Meine teure Gräfin.,neutral,negative,negative,neutral,565,566
+24,So gut als gelesen.,neutral,positive,neutral,neutral,569,570
+25,Nun ja.,neutral,neutral,negative,neutral,572,573
+26,"Ich habe sie zu lieben geglaubt, was glaubt man nicht.",negative,negative,negative,negative,574,578
+27,Es kann sein.,negative,neutral,neutral,neutral,579,580
+28,Ich habe sie auch wirklich geliebt.,negative,positive,positiv,negative,582,583
+29,ich habe,neutral,neutral,negative,negative,588,589
+30,Der Maler Conti will die Gnade haben. Guten Morgen. Wie leben sie?,neutral,positive,negative,neutral,591,604
+31,"Was macht die Kunst? Es geht nach Brot. In meinen Armen Künstler bringen, ich meine nicht viele, sondern viel dann wenig ist, aber mit Fleiß. Sie kommen doch nicht leer, Conti? Ich bringe das Portrait welches Sie mir befholen haben gnädiger Herr und noch eines welche sie mir nicht befohlen haben, aber weil es gesehen zu werden verdient. Jedes ist die neueste Auftrag ein wenig von lange her und schönen Damen sind nicht alle Tage zum Malen. Die Gräfin hat seit drei Monaten gerade einmal sich entschließen können zu sitzen.",neutral,negative,negative,negative,605,652
+32,Nur sind die Stücke in deinem Wohnzimmer.,neutral,neutral,neutral,neutral,653,655
+33,"ich hole sie, ihr Bild bis gut",neutral,positive,negative,neutral,658,664
+34,Ihr Bild ist jedoch nicht selber,neutral,negative,negative,neutral,665,666
+35,"Vielleicht finde ich in den Bildern wieder, was ich in der Person nicht mehr erblicke. Ich will es aber nicht wiederfinden, der beschwerlichen Maler, glaube gabi hat den bestochen, weil wäre es auch.",negative,negative,negative,negative,668,678
+36,Bin ich ein anderes Bild?,negative,neutral,neutral,positive,679,680
+37,Ist mit anderen Farben auf einen anderen Grund gemalt ist in meinem Herzen wieder Platz machen will.,negative,positive,negative,negative,682,689
+38,"Wahrlich ich glaub ich wär zufrieden, als ich dort lebte war ich immer so leicht, so fröhlich, so ausgelassen und nun bin ich von allem das Gegenteil.",negative,positive,negative,neutral,690,704
+39,ich bin so um,negative,neutral,neutral,neutral,710,711
+40,"besser ich bitte übrigens, dass sie die Schranken unserer Kunst erregen wollen.",neutral,positive,positiv,neutral,713,717
+41,Vieles von dem anzüglichsten der Schönheit liegt ganz außerdem Grenzen derselben.,neutral,positive,positiv,neutral,719,726
+42,Treten Sie so,neutral,neutral,negative,neutral,729,730
+43,"Ist vortrefflich Conti, ganz vortrefflich. Das gilt ihrer Kunst, ihrem Pinsel, aber geschmeichelt, Conti, ist ganz unendlich geschmeichelt. Das Original schien dieser Meinung nicht zu sein. Auch ist es in der Tat nicht mehr geschmeichelt, als die Kunst schmeicheln muß. Die Kunst muß malen, wie sich die plastische Natur – wenn es eine gibt – das Bild dachte: ohne den Abfall, welchen der widerstrebende Stoff unvermeidlich macht; ohne den Verderb, mit welchem die Zeit dagegen ankämpft. Der denkende Künstler ist noch eins soviel wert. – Aber das Original, sagen Sie, fand demungeachtet – Verzeihen Sie, Prinz. Das Original ist eine Person, die meine Ehrerbietung fodert. Ich habe nichts Nachteiliges von ihr äußern wollen.Soviel als Ihnen beliebt! – Und was sagte das Original?",positive,negative,positiv,neutral,739,781
+44,"Ich bin zufrieden, sagte die Gräfin, wenn ich nicht häßlicher aussehe. Nicht häßlicher? – O das wahre Original! Und mit einer Miene sagte sie das – von der freilich dieses ihr Bild keine Spur, keinen Verdacht zeiget. Das meint' ich ja; das ist es eben, worin ich die unendliche Schmeichelei finde. – Oh! ich kenne sie, jene stolze, höhnische Miene, die auch das Gesicht einer Grazie entstellen würde! – Ich leugne nicht, daß ein schöner Mund, der sich ein wenig spöttisch verziehet, nicht selten um so viel schöner ist. Aber, wohl gemerkt, ein wenig: die Verziehung muß nicht bis zur Grimasse gehen, wie bei dieser Gräfin. Gnädiger Herr, ich bin äußerst betroffen – Denn sagen Sie selbst, Conti, läßt sich aus diesem Bilde wohl der Charakter der Person schließen? Und das sollte doch. Stolz haben Sie in Würde, Hohn in Lächeln, Ansatz zu trübsinniger Schwärmerei in sanfte Schwermut verwandelt. Ah, mein Prinz – wir Maler rechnen darauf, daß das fertige Bild den Liebhaber noch ebenso warm findet, als warm er es bestellte. ",negative,negative,negative,neutral,784,840
+45,Wir malen mit Augen der Liebe und Augen der Liebe müssen uns auch nur beurteilen.,neutral,negative,negative,neutral,841,846
+46,"Ja nun Conti, warum kamen sie nicht einen Monat früher damit?",neutral,negative,neutral,neutral,848,852
+47,Setzen Sie weg.,neutral,neutral,neutral,neutral,854,855
+48,Was ist das andere Stück?,neutral,neutral,neutral,neutral,856,857
+49,Auch ein weibliches Porträt möchte ich lieber gar nichts.,neutral,positive,negative,neutral,860,866
+50,Denn die mich,neutral,neutral,neutral,neutral,867,868
+51,hier,neutral,neutral,negative,neutral,869,870
+52,viel mehr,neutral,neutral,negative,negative,871,872
+53,Hier kommt es doch nicht bei.,negative,negative,negative,negative,875,878
+54,"Ich wünschte Conti, ihre Kunst den anderen Vorwürfen zu bewundern. Hmm, eine bewunderungswürdigere Kunst gibt es aber sicherlich.",positive,negative,negative,negative,880,887
+55,"Keinen bewunderungswürdigeren Gegenstand als diesen. So wett ich Conti, das ist des Künstlers.",positive,neutral,negative,neutral,888,895
+56,was ich,neutral,neutral,negative,neutral,903,903
+57,Ihr Werk Conti.,neutral,negative,negative,neutral,905,907
+58,oder das Werk meiner Phantasie,positive,positive,negative,neutral,908,910
+59,"Emilia Galotti. Wie mein Prinz, sie kennen diesen Engel",positive,neutral,neutral,neutral,912,916
+60,So haben wir,neutral,negative,neutral,neutral,918,919
+61," um sie eben wiederzukennen. – Es ist einige Wochen her, als ich sie mit ihrer Mutter in einer Vegghia traf. – Nachher ist sie mir nur an heiligen Stätten wieder vorgekommen – wo das Angaffen sich weniger ziemt. – Auch kenn ich ihren Vater. Er ist mein Freund nicht. Er war es, der sich meinen Ansprüchen auf Sabionetta am meisten widersetzte. Ja, Der Vater, ja! Aber hier haben wir seine Tochter. Bei Gott, und wie aus dem Spiegel gestohlen.",positive,negative,negative,neutral,920,946
+62,"Oh Sie wissen es ja wohl Conti, dass man den Künstler dann erst recht lobt, wenn man",positive,positive,negative,neutral,952,956
+63,Und doch bin ich wiederum sehr zufrieden mit meiner Unzufriedenheit mit mir selbst.,positive,negative,negative,neutral,963,968
+64,Dass wir nicht unmittelbar mit den Augen malen.,neutral,negative,neutral,neutral,971,976
+65,"Auf dem langen Wege aus dem Auge durch den Arm in den Pinsel, wie viel geht da verloren?",neutral,negative,negative,neutral,977,983
+66,"Aber wie ich sage, dass ich weiß was verloren gegangen und wie ist verloren gegangen und warum ist verloren gehen müssen.",neutral,negative,negative,neutral,984,991
+67,"darauf bin ich ebenso stolz und stolzer als ich auf alles das bin, was ich nicht verloren gehen lassen dann aus jenem erkenne ich mehr als aus diesem",positive,positive,negative,neutral,992,1001
+68,dass ich wirklich ein großer Maler bin.,positive,positive,neutral,neutral,1003,1005
+69,Das ist aber nur meine Hand nicht immer ist.,neutral,negative,negative,neutral,1007,1010
+70,"Oder meinen Sie Prinz, dass Rafael nicht das größte malerische Genie gewesen wäre, wenn er unglücklicherweise ohne Hände wäre geboren worden.",neutral,positive,negative,neutral,1013,1022
+71,meinen Sie,neutral,neutral,neutral,neutral,1024,1025
+72,Prinz was sagt,neutral,neutral,negative,neutral,1027,1029
+73,Plaudereien,neutral,neutral,negative,neutral,1032,1033
+74,ihre Seele merke ich.,neutral,negative,negative,neutral,1036,1037
+75,War ganz in ihren Augen.,neutral,negative,positiv,neutral,1039,1040
+76,"Ich liebe solche Seelen und solche Augen. Also Conti rechnen Sie doch wirklich Emilia Galotti mit zu den vorzüglichsten Schönheiten unserer Stadt. Also mit, mit zu den Vorzüglichsten und den Vorzüglichsten unserer Stadt. Sie spotten meiner Prinz.",positive,positive,negative,neutral,1043,1059
+77,Oder sie sahen die ganze Zeit ebensowenig als sie hörten.,neutral,neutral,negative,neutral,1060,1063
+78,Ach lieber Conti,positive,positive,neutral,neutral,1064,1066
+79,Wie darf unser einen seinen Augen trauen. Eigentlich weiß doch nur allein ein Maler von der Schönheit zu urteilen. Eines jedem Empfindung sollte erst auf den Ausspruch eines Malers warten.,positive,positive,negative,negative,1067,1080
+80,"Das Kloster mit dem der von uns wissen will, was schön ist.",negative,negative,negative,neutral,1082,1085
+81,"Aber eines muss ich Ihnen als Maler sagen, mein Prinz.",neutral,neutral,negative,negative,1088,1091
+82,Einer der größten Glückseligkeiten meines Lebens ist es.,positive,positive,negative,neutral,1093,1096
+83,Emilia Galotti mir gesessen,neutral,neutral,negative,neutral,1097,1099
+84,seitdem mein einziges Studium der weiblichen Schönheit,neutral,positive,negative,negative,1102,1105
+85,"Das Bild wofür sie gesessen hat ihr abwesender Vater bekommen, aber diese Kopie ist für Sie Prinz.",positive,negative,positiv,neutral,1109,1116
+86,Wenn Sie Geschmack daran finden.,neutral,neutral,negative,negative,1118,1119
+87,Geschmack,negative,neutral,neutral,negative,1121,1122
+88,"Dieses Ihr Studium der weiblichen Schönheit, Conti, wie könnt' ich besser tun, als es auch zu dem meinigen zu machen? – Dort, jenes Porträt nehmen Sie nur wieder mit, es soll in der Galerie wieder aufgestellt werden. Aber dieses da es bleibt hier. Mit einem Studio macht man soviel Umstände nicht: auch läßt man das nicht aufhängen,",neutral,negative,negative,negative,1124,1142
+89,ich danke ihnen Conti.,positive,positive,negative,neutral,1146,1147
+90,Ich danke Ihnen.,positive,positive,negative,neutral,1148,1149
+91,Recht sehr,positive,negative,neutral,neutral,1151,1151
+92,"Und wie gesagt: in meinem Gebiete soll die Kunst nicht nach Brot gehen – bis ich selbst keines habe. – Schicken Sie, Conti, zu meinem Schatzmeister, und lassen Sie, auf Ihre Quittung, für beide Porträte sich bezahlen – soviel sie wollen.",positive,positive,negative,neutral,1153,1165
+93,Hören Sie,neutral,neutral,negative,neutral,1170,1171
+94,"so viel sie wollen. Sollte ich doch bald fürchten Prinz, dass ich so noch etwas anderes belohnen wollen als die Kunst.",neutral,negative,negative,neutral,1172,1178
+95,Dieses Augen voll Liebreizung.,positive,neutral,negative,neutral,1190,1194
+96,Bescheidenheit,neutral,positive,negative,neutral,1196,1197
+97,und wenn er sich zum Reden öffnet.,neutral,positive,negative,neutral,1200,1201
+98,ich höre kommen,neutral,neutral,negative,neutral,1207,1208
+99,"noch bin ich mit dir zu neidisch, es wird Marinelli sein, hätte ich ihn doch nicht rufen lassen. Was für einen Morgen könnte ich haben.",negative,negative,positiv,neutral,1209,1222
+100,"Ich bekam Lust, auszufahren. Der Morgen war so schön. – Aber nun ist er ja wohl verstrichen; und die Lust ist mir vergangen. Was haben wir Neues, Marinelli? Nichts von Belang, das ich wüßte. – Die Gräfin Orsina ist gestern zur Stadt gekommen. Hier liegt auch schon ihr guter Morgen oder was es sonst sein mag! Ich bin gar nicht neugierig darauf. – Sie haben sie gesprochen? Bin ich, leider, nicht ihr Vertrauter? – Aber, wenn ich es wieder von einer Dame werde, der es einkömmt, Sie in gutem Ernste zu lieben, Prinz: so – – Nichts verschworen, Marinelli! Ja? In der Tat, Prinz? Könnt' es doch kommen? – Oh! so mag die Gräfin auch so unrecht nicht haben. Allerdings, sehr unrecht! – Meine nahe Vermählung mit der Prinzessin von Massa will durchaus, daß ich alle dergleichen Händel fürs erste abbreche.",neutral,negative,negative,negative,1241,1297
+101,"wohl zu finden wissen, als der Prinz in seines.
+Das unstreitig härter ist, als ihres. Mein Herz wird das Opfer eines elenden Staatsinteresse. Ihres darf sie nur zurücknehmen; aber nicht wider Willen verschenken.
+Zurücknehmen? Warum zurücknehmen? fragt die Gräfin: wenn es weiter nichts, als eine Gemahlin ist, die dem Prinzen nicht die Liebe, sondern die Politik zuführt? Neben so einer Gemahlin sieht die Geliebte noch immer ihren Platz. Nicht so einer Gemahlin fürchtet sie aufgeopfert zu sein, sondern – –
+Einer neuen",negative,negative,negative,negative,1301,1332
+102,nun denn,neutral,neutral,negative,neutral,1335,1335
+103,"Wollten Sie mir daraus ein Verbrechen machen, Marinelli?
+Ich? – O! vermengen Sie mich ja nicht, mein Prinz, mit der Närrin, deren Wort ich führe, – aus Mitleid führe. Denn gestern, wahrlich, hat sie mich sonderbar gerühret. Sie wollte von ihrer Angelegenheit mit Ihnen gar nicht sprechen. Sie wollte sich ganz gelassen und kalt stellen. Aber mitten in dem gleichgültigsten Gespräche, entfuhr ihr eine Wendung, eine Beziehung über die andere, die ihr gefoltertes Herz verriet. Mit dem lustigsten Wesen sagte sie die melancholischsten Dinge: und wiederum die lächerlichsten Possen mit der allertraurigsten Miene. Sie hat zu den Büchern ihre Zuflucht genommen; und ich fürchte, die werden ihr den Rest geben.
+So wie sie ihrem armen Verstande auch den ersten Stoß gegeben.",negative,negative,negative,positive,1336,1382
+104,So wäre sie es.,negative,neutral,neutral,neutral,1384,1385
+105,früher oder später,neutral,neutral,negative,neutral,1388,1388
+106,auch ohne Liebe geworden,neutral,positive,negative,neutral,1390,1392
+107,und nun genug von ihr von etwas anderem.,negative,negative,negative,neutral,1393,1398
+108,"Geht denn gar nichts vor, in der Stadt? –
+So gut, wie gar nichts. – Denn daß die Verbindung des Grafen Appiani heute vollzogen wird, – ist nicht viel mehr, als gar nichts.",neutral,negative,negative,neutral,1400,1409
+109,"Des Grafen Appiani? und mit wem denn? – Ich soll ja noch hören, daß er versprochen ist.
+Die Sache ist sehr geheim gehalten worden. Auch war nicht viel Aufhebens davon zu machen. – Sie werden lachen, Prinz. – Aber so geht es den Empfindsamen! Die Liebe spielt ihnen immer die schlimmsten Streiche. Ein Mädchen ohne Vermögen und ohne Rang, hat ihn in ihre Schlinge zu ziehen gewußt, – mit ein wenig Larve; aber mit vielem Prunke von Tugend und Gefühl und Witz, – und was weiß ich?
+Wer sich den Eindrücken, die Unschuld und Schönheit auf ihn machen, ohne weitere Rücksicht, so ganz überlassen darf; – ich dächte, der wär' eher zu beneiden,",positive,negative,negative,negative,1411,1453
+110,"als zu belachen. – Und wie heißt denn die Glückliche? – Denn bei alle dem ist Appiani – ich weiß wohl, daß Sie, Marinelli, ihn nicht leiden können; eben so wenig als er Sie – bei alle dem 
+ist er doch ein sehr würdiger junger Mann, ein schöner Mann, ein reicher Mann, ein Mann voller Ehre. Ich hätte sehr gewünscht, ihn mir verbinden zu können. Ich werde noch darauf denken.
+Wenn es nicht zu spät ist. – Denn so viel ich höre, ist sein Plan gar nicht, bei Hofe sein Glück zu machen. – Er will mit seiner Gebieterin nach seinen Tälern von Piemont: – Gemsen zu jagen, auf den Alpen; und Murmeltiere abzurichten. – Was kann er Beßres tun? Hier ist es durch das Mißbündnis, welches er trifft, mit ihm doch aus. Der Zirkel der ersten Häuser ist ihm von nun an verschlossen – –
+Mit euern ersten Häusern! – in welchen das Zeremoniell, der Zwang, die Langeweile, und nicht selten die Dürftigkeit herrscht.",neutral,negative,negative,negative,1454,1507
+111,"Aber so nennen Sie mir sie doch, der er dieses so große Opfer bringt.
+Es ist eine gewisse Emilia Galotti.",neutral,positive,positiv,neutral,1508,1513
+112,Wie Marinelli?,positive,neutral,negative,neutral,1517,1517
+113,Emilia Galotti,neutral,neutral,negative,neutral,1520,1522
+114,"Nimmermehr!
+Zuverlässig, gnädiger Herr.
+Nein, sag ich",neutral,positive,negative,neutral,1525,1528
+115,Emilia Galotti,negative,neutral,positiv,neutral,1553,1554
+116,"Die Tochter des Obersten Galotti, bei Sabionetta?
+Eben die.
+Die hier in Guastalla mit ihrer Mutter wohnet?
+Eben die.
+Unfern der Kirche",negative,negative,negative,neutral,1556,1563
+117,Diese? Diese Emilia Galotti? – Sprich dein verdammtes Eben die,negative,negative,positiv,neutral,1569,1574
+118,die Trauung steht in der Schelle auf dem Landgut des Vaters bei Violetta gegen Mittag fahren Mutter und Tochter der Graf vielleicht ein paar Freunde dahin ab.,neutral,positive,negative,neutral,1582,1591
+119,was mir nicht,negative,negative,negative,neutral,1598,1599
+120,Nun ja.,negative,neutral,neutral,negative,1601,1602
+121,ich liebe sie,negative,positive,negative,negative,1604,1605
+122,"Ich bete sie an, dass sie Marinelli, nicht der sie ist so oft mich ihrer innigsten Freundschaft Versicherten.",negative,negative,negative,negative,1607,1615
+123,"Wann hat kein Freund kann keinen Freund haben, dass sie so toll und so hämisch mir bis auf diesen Augenblick die Gefahr verhehlen, die meiner Liebe droht, wenn ich ihnen jemals.",negative,negative,negative,positive,1616,1633
+124,Wenn du mich auch dazu kommen ließen,negative,positive,negative,negative,1636,1638
+125,die lieben Emilia,negative,positive,positiv,neutral,1639,1640
+126,"Wenn ich von dieser Liebe das geringste gewußt, das geringste vermutet habe; so möge weder Engel noch Heiliger von mir wissen! Fürsten haben keinen Freund! können keinen Freund haben!« – Und die Ursache, wenn dem so 
+ist? – Weil sie keinen haben wollen. – Heute beehren sie uns mit ihrem Vertrauen, teilen uns ihre geheimsten Wünsche mit, schließen uns ihre ganze Seele auf: und morgen sind wir ihnen wieder so fremd, als hätten sie nie ein Wort mit uns gewechselt.
+Ach! Marinelli, wie konnt' ich Ihnen vertrauen, was ich mir selbst kaum gestehen wollte?",negative,negative,negative,negative,1642,1673
+127,Aller meiner Mühe war vergebens sie ein zweites Mal zu sprechen und das erste Mal.,negative,positive,negative,neutral,1680,1685
+128,Ich komme von Sinnen.,negative,neutral,negative,negative,1690,1691
+129,"Und ich soll Ihnen noch lange erzählen? – Sie sehen mich einen Raub der Wellen: was fragen sie viel, wie ich es geworden? Retten Sie mich, wenn Sie können: und fragen Sie dann.
+Retten? ist da viel zu retten?",negative,positive,negative,negative,1692,1706
+130,"Was Sie versäumt haben, gnädiger Herr, der Emilia Galotti zu bekennen, das bekennen Sie nun der Gräfin Appiani. Waren, die man aus der ersten Hand nicht haben kann, kauft man aus der zweiten; – und solche Waren nicht selten aus der zweiten um so viel wohlfeiler.
+Ernsthaft, Marinelli, ernsthaft, oder –
+Freilich, auch um so viel schlechter –
+Sie werden unverschämt!",negative,negative,negative,negative,1707,1723
+131,"Und dazu will der Graf damit aus dem Lande. – Ja, so müßte man auf etwas anders denken. –
+Und auf was? – Liebster, bester Marinelli, denken Sie für mich. Was würden Sie tun, wenn Sie an meiner Stelle wären?
+Vor allen Dingen, eine Kleinigkeit als eine Kleinigkeit ansehen; – und mir sagen, daß ich nicht vergebens sein wolle, was ich bin – Herr!
+Schmeicheln Sie mir",negative,positive,negative,positive,1726,1750
+132,Teufel sagen Sie,negative,neutral,negative,neutral,1757,1758
+133,Schon hat erst heute soll es geschehen und nur geschehen Dinge ist nicht so hart.,neutral,negative,negative,negative,1759,1765
+134,"Wollen Sie mir freie Hand lassen, Prinz? Wollen Sie alles genehmigen, was ich tue?
+Alles, Marinelli, alles, was diesen Streich abwenden kann. Geschmachtet, geseufzet hab' ich lange genung, – länger als ich gesollt hätte; aber nichts getan! und über die zärtliche Untätigkeit bei einem Haar' alles verloren! – So lassen Sie uns keine Zeit verlieren. – Aber bleiben Sie nicht in der Stadt. ",negative,negative,negative,negative,1766,1790
+135,Fahren Sie nach Ihrem Lustschloss dosalo?,neutral,negative,negative,neutral,1791,1793
+136,"Weg nach sabbioneta geht da vorbei, wenn es mir nicht augenblicklich gelingt den Grafen zu entfernen, so denke ich.",negative,positive,negative,negative,1795,1804
+137,"Doch, er geht in diese Falle gewiss.",neutral,positive,negative,negative,1805,1808
+138,Sie wollen ja mein Prinz wegen ihrer Vermählung einen Gesandten nach Massa schicken.,neutral,positive,negative,neutral,1809,1815
+139,"Lassen Sie den Grafen diesen Gesandten sein mit dem Bedinge, dass er noch heute abreist.",neutral,positive,negative,negative,1816,1821
+140,Verstehen sie nicht.,negative,negative,negative,neutral,1824,1829
+141,"Vortrefflich! – Bringen Sie ihn zu mir heraus. Gehen Sie, eilen Sie. Ich werfe mich sogleich in den Wagen. sogleich.",neutral,positive,negative,neutral,1835,1851
+142,Wo auf der Erde?,neutral,neutral,neutral,neutral,1855,1858
+143,"Mache das erste nicht mehr, warum sollte ich mit den Pfeile noch tiefer in die Wunde drücken?",negative,negative,negative,neutral,1866,1871
+144,Und wenn nun doch alles verloren wäre.,negative,negative,negative,neutral,1873,1876
+145,Wenn Marinelli nichts ausrichtete.,negative,neutral,negative,neutral,1878,1880
+146,Warum habe ich mich aber auf ihn alleine verlassen.,negative,positive,negative,neutral,1881,1883
+147,um diese Stundeum diese nämliche Stunde pflegt das fromme Mädchen alle Morgen bei den Dominikanern die Messe zu hören. – Wie wenn ich sie da zu sprechen suchte?,negative,negative,negative,neutral,1890,1899
+148,doch heute,neutral,neutral,negative,neutral,1902,1903
+149,eurem Hochzeitstag,neutral,neutral,negative,neutral,1906,1907
+150,Heu,negative,neutral,neutral,negative,1909,1909
+151,da werden ja andere Dinge am Herzen liegen als die Messe.,negative,neutral,negative,negative,1910,1913
+152,des,neutral,neutral,neutral,negative,1915,1915
+153,wer weiß,neutral,negative,neutral,negative,1917,1918
+154,Es ist ein Gang. Camillo Rota.,neutral,neutral,negative,neutral,1921,1925
+155,Da war doch die Bittschrift,neutral,neutral,negative,neutral,1946,1953
+156,Kommen Sie Rota,neutral,neutral,negative,neutral,1964,1965
+157,hier ist was ich diesen Morgen erbrochen.,neutral,negative,negative,neutral,1968,1973
+158,"gnädiger Herr.
+Noch ist hier eine Bittschrift einer Emilia Galot – – Bruneschi will ich sagen. – Ich habe meine Bewilligung zwar schon beigeschrieben. Aber doch – die Sache ist keine Kleinigkeit – Lassen Sie die Ausfertigung noch anstehen.",neutral,positive,negative,neutral,1980,1996
+159,Nicht wie ich will.,neutral,negative,negative,neutral,2001,2004
+160,Was haben wir sonst? Ein Todesurteil wäre zu unterschreiben.,neutral,negative,negative,neutral,2013,2021
+161,"Ein Todesurteil, sagt' ich.
+Ich höre ja wohl. – Es könnte schon geschehen sein. Ich bin eilig.
+Nun hab' ich es doch wohl nicht mitgenommen! – – Verzeihen Sie, gnädiger Herr. – Es kann Anstand damit haben bis morgen.
+Auch das! – Packen Sie nur zusammen: ich muß fort – Morgen, Rota",neutral,negative,positiv,neutral,2025,2045
+162,recht gern,positive,negative,negative,neutral,2054,2058
+163,ein Todesurteil,negative,neutral,negative,neutral,2061,2062
+164,gern,neutral,neutral,negative,neutral,2065,2066
+165,Ich hätte in diesem Augenblick nicht mögen unterschreiben lassen.,negative,positive,neutral,negative,2074,2077
+166,Und wenn es den Mörder meines einzigen Sohnes betroffen hätte.,negative,neutral,negative,negative,2079,2082
+167,recht gern,neutral,negative,negative,neutral,2084,2085
+168,recht gern,negative,negative,negative,negative,2088,2089
+169,steht mir durch die Seele dieses grässliche recht gern.,negative,negative,positiv,negative,2091,2094
+170,"Wer sprengte da in den Hof?
+Unser Herr, gnädige Frau.
+Mein Gemahl? Ist es möglich?
+Er folgt mir auf dem Fuße.
+So unvermutet?",neutral,positive,negative,neutral,2128,2146
+171,"Wenn es denn nur eine Überraschung sein soll! Nichts weiter sei unbesorgt. Das Glück des heutigen Tages weckte mich so früh. Da war so schön, der Weg ist zu kurz, ich vermute der euch hier so geschäftig, vielleicht vergessen Sie etwas wie mir.",positive,positive,negative,negative,2157,2177
+172,Mit einem Wort ich komme und sehe und gehe also gleich wieder zurück.,neutral,neutral,negative,neutral,2179,2182
+173,wo ist Emilia? unstreitig beschäftigt mit dem Putzen,positive,neutral,positiv,neutral,2184,2189
+174,"Sie ist in der Messe. – Ich habe heute, mehr als jeden andern Tag, Gnade von oben zu erflehen, sagte sie, und ließ alles liegen, und nahm ihren Schleier, und eilte –
+Ganz allein?
+Die wenigen Schritte – –",neutral,positive,negative,neutral,2195,2211
+175,Kommen Sie herein?,positive,neutral,negative,neutral,2212,2213
+176,"Augenblick auszuruhen und wenn Sie wollen eine Erfrischung zu nehmen, wie du meinst Claudia, aber sie sollte nicht allein gegangen sein.",positive,negative,positiv,neutral,2215,2223
+177,"Und Ihr, Pirro, bleibt hier in dem Vorzimmer, alle Besuche auf heute zu verbitten.
+Die sich nur aus Neugierde melden lassen. – Was bin ich seit einer Stunde nicht alles ausgefragt worden! ",negative,negative,positiv,neutral,2225,2238
+178,Himmel,neutral,neutral,negative,neutral,2241,2242
+179,"Angelo? – Du?
+Wie du siehst. – Ich bin lange genug um das Haus herumgegangen, dich zu sprechen. – Auf ein Wort! –
+Und du wagst es, wieder ans Licht zu kommen? – Du bist seit deiner letzten Mordtat vogelfrei erkläret; auf deinen Kopf steht eine Belohnung –
+Die doch du nicht wirst verdienen wollen? –
+Was willst du? Ich bitte dich, mache mich nicht unglücklich.
+Damit etwa?",negative,negative,negative,neutral,2244,2268
+180,Es gehört dir.,neutral,neutral,neutral,neutral,2269,2271
+181,mir hast du vergessen.,neutral,neutral,neutral,neutral,2272,2274
+182," Der Deutsche, dein voriger Herr, – –
+Schweig davon!
+Den du uns, auf dem Wege nach Pisa, in die Falle führtest –
+Wenn uns jemand hörte!
+Hatte ja die Güte, uns auch einen kostbaren Ring zu hinterlassen. – Weißt du nicht? – Er war zu kostbar, der Ring, als daß wir ihn sogleich ohne Verdacht hätten zu Gelde machen können. Endlich ist mir es damit gelungen. Ich habe hundert Pistolen dafür erhalten: und das ist dein Anteil. Nimm!",negative,negative,negative,neutral,2275,2303
+183,Ich mag nichts behalt alles.,negative,positive,negative,neutral,2311,2313
+184,"Meinetwegen, wenn es dir gleich ist wie hoch du deinen Kopf trägst.",negative,positive,negative,neutral,2314,2319
+185,"Und was nun? Denn daß du bloß deswegen mich aufgesucht haben solltest – –
+ Halunke! Was denkst du von uns? – daß wir fähig sind, jemand seinen Verdienst vorzuenthalten? Das mag unter den so genannten ehrlichen Leuten Mode sein: unter uns nicht.",negative,negative,negative,neutral,2321,2336
+186,leb wohl,negative,neutral,negative,neutral,2340,2341
+187,"Eins muß ich doch fragen. – Da kam ja der alte Galotti so ganz allein in die Stadt gesprengt. Was will der?
+Nichts will er: ein bloßer Spazierritt. Seine Tochter wird, heut' Abend, auf dem Gute, von dem er herkömmt, dem Grafen Appiani angetrauet. Er kann die Zeit nicht erwarten –
+Und reitet bald wieder hinaus?
+So bald, daß er dich hier trifft, wo du noch lange verziehest. – Aber du hast doch keinen Anschlag auf ihn? Nimm dich in Acht. Er ist ein Mann –
+Kenn' ich ihn nicht? Hab' ich nicht unter ihm gedient? – Wenn darum bei ihm nur viel zu holen wäre! – Wenn fahren die junge Leute nach?
+Gegen Mittag.
+Mit viel Begleitung?
+In einem einzigen Wagen: die Mutter, die Tochter",positive,negative,negative,neutral,2346,2389
+188,"Ein Paar Freunde kommen aus Sabionetta als Zeugen.
+Und Bediente?
+Nur zwei; außer mir, der ich zu Pferde vorauf reiten soll.
+Das ist gut. – Noch eins: wessen ist die Equipage? Ist es eure?",positive,positive,negative,neutral,2396,2414
+189,oder des Grafen,neutral,neutral,neutral,neutral,2416,2418
+190,"Du reitest vorauf. Reite doch, reite! und kehre dich an nichts!
+Nimmermehr!
+Wie? ich glaube gar, du willst den Gewissenhaften spielen. – Bursche! ich denke, du kennst mich. – Wo du plauderst! Wo sich ein einziger Umstand anders findet, als du mir ihn angegeben! –
+Aber, Angelo, um des Himmels willen! –
+Tu, was du nicht lassen kannst! 
+Ha! Laß dich den Teufel bei Einem Haare fassen; und du bist sein auf ewig! Sie bleibt mir zu lang' aus –
+Noch einen Augenblick, Odoardo! Es würde sie schmerzen, deines Anblicks so zu verfehlen.",negative,negative,negative,neutral,2419,2465
+191,"Ich muß auch bei dem Grafen noch einsprechen. Kaum kann ichs erwarten, diesen würdigen jungen Mann meinen Sohn zu nennen. Alles entzückt mich an ihm. Und vor allem der Entschluß, in seinen väterlichen Tälern sich selbst zu leben.
+Das Herz bricht mir, wenn ich hieran gedenke. – So ganz sollen wir sie verlieren, diese einzige geliebte Tochter?
+Was nennst du, sie verlieren? Sie in den Armen der Liebe zu wissen?",positive,negative,positiv,neutral,2466,2493
+192,"Vermenge dein Vergnügen an ihr, nicht mit ihrem Glücke. – Du möchtest meinen alten Argwohn erneuern: – daß es mehr das Geräusch und die Zerstreuung der Welt, mehr die Nähe des Hofes war, als die Notwendigkeit, unserer Tochter eine anständige Erziehung zu geben, was dich bewog, hier in der Stadt mit ihr zu bleiben; – fern von einem Manne und Vater, der euch so herzlich liebt.
+Wie ungerecht, Odoardo! Aber laß mich heute nur ein einziges für diese Stadt, für diese Nähe des Hofes sprechen, die deiner strengen Tugend so verhaßt sind. – Hier, nur hier konnte die Liebe zusammen bringen, was für einander geschaffen war. Hier nur konnte der Graf Emilien finden; und fand sie.
+Das räum' ich ein. Aber, gute Claudia, hattest du darum Recht, weil dir der Ausgang Recht gibt? – Gut",neutral,positive,positiv,negative,2494,2548
+193,"als glücklich gewesen! Gut, daß es so damit abgelaufen! – Nun haben sie sich gefunden, die für einander bestimmt waren: nun laß sie ziehen, wohin Unschuld und Ruhe sie rufen. – Was sollte der Graf hier? Sich bücken, schmeicheln und kriechen, und die Marinellis auszustechen suchen? um endlich ein Glück zu machen, dessen er nicht bedarf? um endlich einer Ehre gewürdiget zu werden, die für ihn keine wäre? – Pirro!
+Hier bin ich.
+Geh und führe mein Pferd vor das Haus des Grafen.",negative,positive,positiv,neutral,2554,2585
+194,"Warum soll der Graf hier dienen, wenn er dort selbst befehlen kann? – Dazu bedenkst du nicht, Claudia, daß durch unsere Tochter er es vollends mit dem Prinzen verderbt. Der Prinz haßt mich –
+Vielleicht weniger, als du besorgest.
+Besorgest! Ich besorg' auch so was!
+Denn hab' ich dir schon gesagt, daß der Prinz unsere Tochter gesehen hat?
+Der Prinz? Und wo das?
+In der letzten Vegghia, bei dem Kanzler Grimaldi, die er mit seiner Gegenwart beehrte. Er bezeigte sich gegen sie so gnädig – –
+So gnädig?
+Er unterhielt sich mit ihr so lange – –
+Unterhielt sich mit ihr?
+Schien von ihrer Munterkeit und ihrem Witze so bezaubert – –
+So bezaubert? –
+Hat von ihrer Schönheit mit so vielen Lobeserhebungen gesprochen – –
+Lobeserhebungen? Und das alles erzählst du mir in einem Tone der Entzückung? O Claudia!",negative,positive,positiv,negative,2586,2641
+195,Auch das ist so abgelaufen.,negative,negative,negative,neutral,2644,2646
+196," wenn ich mir einbilde – Das gerade wäre der Ort, wo ich am tödlichsten zu verwunden bin! – Ein Wollüstling, der bewundert, begehrt. – Claudia! Claudia! der bloße Gedanke setzt mich in Wut. – Du hättest mir das sogleich sollen gemeldet haben. – Doch, ich möchte dir heute nicht gern etwas Unangenehmes sagen. Und ich würde wenn ich länger bliebe.",negative,negative,positiv,neutral,2648,2670
+197,Gott befohlen,negative,negative,neutral,neutral,2674,2676
+198,"Kommt glücklich nach!
+Welch ein Mann! – O, der rauhen Tugend! – wenn anders sie diesen Namen verdienet. – Alles scheint ihr verdächtig, alles strafbar! – Oder, wenn das die Menschen kennen heißt; – wer sollte sich wünschen, sie zu kennen?",neutral,positive,negative,neutral,2681,2701
+199,wo bleibt aber auch Emilia,negative,neutral,positiv,neutral,2702,2704
+200,"Er ist des Vaters Feind: folglich – folglich, wenn er ein Auge für die Tochter hat, so ist es einzig, um ihn zu beschimpfen? – Oder ist er mir gar gefolgt? Ist er, meine Mutter? ist er? – Nein, dem Himmel sei Dank!
+Was ist dir, meine Tochter? was ist dir?
+Nichts, nichts –
+Und blickest so wild um dich? Und zitterst an jedem Gliede? Was kann dir da, an heiliger Stätte, so Schlimmes begegnet sein?
+Nie hätte meine Andacht inniger, brünstiger sein sollen, als heute: nie ist sie weniger gewesen, was sie sein sollte.
+Wir sind Menschen, Emilia. Die Gabe zu beten ist nicht immer in unserer Gewalt. Dem Himmel ist beten wollen, auch beten.
+Und sündigen wollen, auch sündigen.
+Das hat meine Emilia nicht wollen! Aber daß fremdes Laster uns, wider unsern Willen, zu Mitschuldigen machen kann!
+Fasse dich!",negative,negative,positiv,negative,2708,2758
+201,"Sag es mir mit eins, was dir geschehn.",negative,neutral,positiv,neutral,2768,2773
+202,eben,neutral,neutral,negative,neutral,2778,2779
+203,"eben hatte ich mich weiter von dem Altar als ich sonst pflege, denn ich kam zu spät auf meine Knie gelassen eben fing ich an mein Herz zu erheben als",negative,positive,positiv,negative,2781,2791
+204,als dicht hinter mir etwas seinen Platz nahm.,neutral,neutral,negative,neutral,2794,2796
+205,"So dicht hinter mir, ich konnte weder vor noch zur Seite Rücken so gern ich auch. Wollte aus Furcht, dass ich eines anderen Andacht stören möchte.",negative,negative,positiv,negative,2798,2804
+206,Andacht,neutral,neutral,negative,neutral,2805,2806
+207,"Das Schlimmste, dass ich besorgte.",negative,negative,negative,neutral,2807,2809
+208,"Aber es währte nicht lange, da hört sich ganz nah an meinem Ohren nach einem tiefen Seufzer nicht den Namen einer heiligen den Namen zürnen Sie nicht meine Mutter den Namen ihrer Tochter meinen Namen und das laute Donner nicht verhindert hätten mehr zuhören sprach von Schönheit von Liebe.",negative,negative,positiv,negative,2810,2835
+209,"Es klagte, daß dieser Tag, welcher mein Glück mache, – wenn er es anders mache – sein Unglück auf immer entscheide. – Es beschwor mich – hören mußt' ich dies alles. Aber ich blickte nicht um; ich wollte tun, als ob ich es nicht hörte. – Was konnt' ich sonst? – Meinen guten Engel bitten, mich mit Taubheit zu schlagen; und wann auch, wann auch auf immer! – Das bat ich; das war das einzige, was ich beten konnte.",negative,negative,positiv,negative,2836,2854
+210,Endlich war die Zeit sich wieder zu erheben das heilige Amt war zu Ende ich zitterte mich um zu kehren.,negative,negative,positiv,negative,2855,2861
+211,"Ich zitterte ihn zu erblicken, der sich den Frevel erlauben dürfen und da ich mich umwandte erblickte.",negative,positive,positiv,negative,2863,2871
+212,Meine Tochter raten Sie meine Mutter raten sie nicht.,neutral,negative,positiv,negative,2874,2878
+213,"Ich glaubte, in die Erde zu sinken.",negative,negative,positiv,neutral,2879,2881
+214,ihm selbst,neutral,positive,positiv,neutral,2883,2883
+215,wen ihn selbst.,neutral,positive,positiv,neutral,2885,2888
+216,"O gesegnet sei die Ungeduld deines Vaters, der eben hier war, und dich nicht erwarten wollte!
+Mein Vater hier? – und wollte mich nicht erwarten?
+Wenn du in deiner Verwirrung auch ihn das hättest hören lassen!
+Nun, meine Mutter? – Was hätt' er an mir Strafbares finden können?
+Nichts; eben so wenig, als an mir. Und doch, doch – Ha, du kennst deinen Vater nicht! In seinem Zorne hätt' er den unschuldigen Gegenstand des Verbrechens mit dem Verbrecher verwechselt.",negative,negative,positiv,neutral,2901,2929
+217,"– Aber weiter, meine Tochter, 
+ weiter! Als du",neutral,neutral,negative,neutral,2937,2941
+218,"Als du den Prinzen erkanntest! Ich will hoffen, dass du deiner Selbst mächtig genug wurdest, in einem Blicke all die Verachtung zu bezeugen die er verdient.",negative,positive,negative,neutral,2943,2953
+219,Das war ich nicht meine Mutter.,neutral,negative,positiv,neutral,2956,2957
+220,"Nach dem Blicke, mit dem ich ihn erkannte, hatt' ich nicht das Herz, einen zweiten auf ihn zu richten. Ich floh' –
+Und der Prinz dir nach –
+Was ich nicht wußte, bis ich in der Halle mich bei der Hand ergriffen fühlte. Und von ihm! Aus Scham mußt' ich Stand halten: mich von ihm loszuwinden, würde die Vorbeigehenden zu aufmerksam auf uns gemacht haben. Das war die einzige Überlegung, deren ich fähig war – oder deren ich nun mich wieder erinnere. Er sprach; und ich hab' ihm geantwortet. Aber was er sprach, was ich ihm geantwortet; – fällt mir es noch bei, so ist es gut, so will ich es Ihnen sagen, meine Mutter. Jetzt weiß ich von dem allen nichts.",negative,negative,positiv,neutral,2958,2994
+221,Meine Sinne hat mich verlassen.,negative,positive,positiv,neutral,2995,2997
+222,"Umsonst denke ich nach wie ich von ihm weg und aus dem Kreuzgang gekommen, ich finde mich erst auf der Straße wieder und höre ihn hinter mir herkommen und höre ihn mit mir gleich in das Haus treten mit mir die Treppe hinaufsteigen.",negative,positive,positiv,neutral,3002,3018
+223,"Gott! wenn dein Vater das wüßte! – Wie wild er schon war, als er nur hörte, daß der Prinz dich jüngst nicht ohne Mißfallen gesehen! – Indes, sei ruhig, meine Tochter!",negative,positive,positiv,neutral,3024,3039
+224,"Nimm es für einen Traum, das dir begegnet auch wird es noch weniger Folgen haben als ein Traum, du entgehest heute mit eins allen Nachstellungen",positive,negative,positiv,negative,3041,3053
+225,aber nicht,neutral,negative,negative,neutral,3055,3055
+226,meine Mutter der Graf,negative,neutral,negative,neutral,3057,3058
+227,muss das wissen.,neutral,negative,negative,negative,3060,3061
+228,ihm muss ich es sagen,negative,positive,negative,neutral,3062,3063
+229,"Um alle Welt nicht wozu. Warum bist du für nichts und wieder nichts ihn unruhig machen, aber wenn er es von einem anderen erführe, dass der Prinz mich heute gesprochen.",negative,negative,positiv,negative,3065,3078
+230,Würde meinen verschweigen nicht früher oder später seine Unruhe vermehren.,negative,negative,negative,neutral,3079,3082
+231,"Ich dächte doch meine Mutter, ich behielte vor ihm lieber nichts auf dem Herzen schwachheim.",positive,positive,positiv,neutral,3083,3088
+232,"Verliebte Schwachheit nein, sag ihm nichts.",negative,positive,negative,negative,3090,3094
+233,Lass ihn nichts merken.,negative,positive,negative,negative,3096,3098
+234,ja,neutral,neutral,neutral,neutral,3100,3100
+235,Ich habe keinen Willen gegen den Ihrigen.,positive,positive,negative,neutral,3102,3104
+236,Jetzt wird mir auch wieder ganz leicht.,positive,positive,negative,neutral,3109,3112
+237,"Was für ein albernes und furchtsames Ding ich bin, ich hätte mich doch wohl anders dabei nehmen können und würde mir ebenso wenig vergeben haben.",positive,positive,positiv,positive,3113,3123
+238,"Ich wollte dir das nicht sagen Emilia, bevor es dir dein eigener gesunder Verstand sagte der Prinz.",positive,negative,negative,positive,3125,3133
+239,ist galant. Du bist die unbedeutende Sprache der Galanterie zu wenig gewohnt. Eine Höflichkeit wird in ihr zur Empfindung; eine Schmeichelei zur Beteurung; ein Einfall zum Wunsche;,positive,negative,positiv,negative,3134,3150
+240,Wunsch zum Vorsatz nichts klingt in dieser Sprache wie alles und alles ist in ihr so vieles nicht so müsste ich mir mit meiner Furcht vollends lächerlich vorkommen.,positive,negative,positiv,negative,3151,3164
+241,"Nun soll er gewiss nichts davon erfahren, mein guter Appiani, er könnte mich leicht für mehr eitel als tugendhaft halten.",positive,positive,positiv,positive,3165,3172
+242,Dass er da selbst kommt.,neutral,positive,negative,neutral,3177,3178
+243,Das ist sein Gang so feierlich so ernsthaft meine teuerste.,positive,negative,positiv,positive,3179,3190
+244,"Ich war mir sie in dem Vorzimmer nicht vermutend, ich wünsche Sie heiter Herr Graf auch wo sie mich nicht vermuten es mag wohl dieses Tages Glückseligkeit sein, die mich  so ernst, den ich bis jetzt nennen mein Fräulein so feierlich macht, Auch sie hier, meine gnädige Frau.",positive,negative,positiv,positive,3194,3218
+245,"Nun bald wir mit einem innigeren Namen zu verehrende ja, der mein größter Stolz sein wird.",positive,positive,positiv,neutral,3220,3229
+246,Wie glücklich bist du meine Emilia Warum hat dein Vater unsere Entzückung nicht teil wollen. Eben habe ich mich auf deinen Armen gerissen oder vielmehr er sich das meine.,positive,negative,positiv,neutral,3230,3244
+247,Welch ein Mann meine Emilia ihr Vater?,positive,negative,positiv,neutral,3246,3250
+248,das Muster aller männlichen Tugend,positive,neutral,positiv,neutral,3252,3255
+249,"Was für Gesinnungen erhebt sich meine Seele in seiner Gegenwart? Nie ist mein Entschluss immer gut immer edel zu sein lebendiger als wenn ich ihn sehe, wenn ich mir denke.",positive,positive,positiv,neutral,3258,3272
+250,Und womit sonst als mit der Erfüllung dieses Entschlusses.,positive,positive,positiv,neutral,3273,3276
+251,Kann ich mich der Ehre würdig machen.,neutral,positive,positiv,neutral,3278,3281
+252,"sein Sohn zu heißen; – der Ihrige zu sein, meine Emilia?
+Und er wollte mich nicht erwarten!
+Ich urteile, weil ihn seine Emilia, für diesen augenblicklichen Besuch, zu sehr erschüttert, zu sehr sich seiner ganzen Seele bemächtiget hätte.
+Er glaubte dich mit deinem Brautschmucke beschäftiget zu finden: und hörte –
+Was ich mit der zärtlichsten Bewunderung wieder von ihm gehört habe. – So recht, meine Emilia! Ich werde eine 
+fromme Frau an Ihnen haben; und die nicht stolz auf ihre Frömmigkeit ist.
+Aber, meine Kinder, eines tun, und das andere nicht lassen! – Nun ist es hohe Zeit; nun mach', Emilia!
+Was? meine gnädige Frau.
+Sie wollen sie doch nicht so, Herr Graf, so wie sie da ist, zum Altare führen?
+Wahrlich",positive,negative,positiv,positive,3282,3331
+253,Das werd ich nun erst gewahr.,neutral,positive,negative,neutral,3332,3333
+254,Und warum nicht so?,negative,negative,positiv,neutral,3335,3336
+255,"So, wie sie da ist.",neutral,neutral,negative,neutral,3337,3338
+256,Mein lieber Graf nicht so.,positive,negative,positiv,neutral,3340,3342
+257,Nicht ganz so aber auch nicht viel prächtiger nicht viel.,positive,negative,positiv,neutral,3343,3347
+258,"Husch, husch und ich bin fertig.",positive,positive,negative,neutral,3349,3351
+259,"Nichts, gar nichts von dem Geschmeide, dem letzten Geschenke Ihrer verschwendrischen Großmut! Nichts, gar nichts, was sich nur zu solchem Geschmeide schickte! – Ich könnte ihm gram sein, diesem Geschmeide, wenn es nicht von Ihnen wäre. – Denn dreimal hat mir von ihm geträumet –
+Nun! davon weiß ich ja nichts.
+Als ob ich es trüge, und als ob plötzlich sich jeder Stein desselben in eine Perle verwandle. – Perlen aber, meine Mutter, Perlen bedeuten Tränen.
+Kind! Die Bedeutung ist träumerischer, als der Traum. – Warest du nicht von je her eine größere Liebhaberin von Perlen, als von Steinen? –
+Freilich, meine Mutter, freilich –
+Bedeuten Tränen – bedeuten Tränen!",negative,positive,positiv,negative,3353,3404
+260,ihnen fällt das auf ihnen,positive,neutral,negative,neutral,3406,3408
+261,"jawohl, ich sollte mich schämen, aber wenn die Einbildungskraft einmal so so traurigen Bilder gestimmt ist, warum ist sie das auch und Was meinen Sie, dass ich mir ausgedacht habe?",positive,negative,positiv,neutral,3410,3423
+262,"Was trug ich, wie sah ich, als ich Ihnen zuerst gefiel, – Wissen Sie es noch?
+Ob ich es noch weiß? Ich sehe Sie in Gedanken nie anders, als so; und sehe Sie so, auch wenn ich Sie nicht so sehe.
+Also, ein Kleid von der nämlichen Farbe, von dem nämlichen Schnitte; fliegend und frei –
+Vortrefflich!
+Und das Haar –
+In seinem eignen braunen Glanze; in Locken, wie sie die Natur schlug –",positive,negative,positiv,neutral,3424,3451
+263,Die Rose darin nicht zu vergessen.,positive,negative,positiv,neutral,3452,3454
+264,"Recht, recht eine kleine Geduld und ich stehe so vor ihnen da.",positive,negative,positiv,neutral,3456,3460
+265,Perlen bedeuten Tränen eine kleine Geduld,positive,negative,negative,neutral,3463,3469
+266,"Ja, wenn die Zeit nur außer uns wäre! – Wenn eine Minute am Zeiger, sich in uns nicht in Jahre ausdehnen könnte! –
+Emiliens Beobachtung, Herr Graf, war so schnell, als richtig. Sie sind heut' ernster als gewöhnlich. Nur noch einen Schritt",negative,negative,negative,neutral,3471,3489
+267,"sollt' es Sie reuen, Herr Graf, daß es das Ziel Ihrer Wünsche gewesen?
+Ah, meine Mutter, und Sie können das von Ihrem Sohne argwohnen? – Aber, es ist wahr; ich bin heut' ungewöhnlich trübe und finster. – Nur sehen Sie, gnädige Frau; – noch Einen Schritt vom Ziele",negative,positive,negative,neutral,3493,3511
+268,Oder noch gar nicht ausgelaufen sein ist im Grunde eines.,negative,negative,positiv,neutral,3512,3517
+269,"Alles was ich sehe, alles was ich höre alles was ich träume predigen mir seit gestern und gehe gestern diese Wahrheit. Dieser eine Gedanke kettet sich an den anderen, den ich haben muss und haben was ist das ich verstehe es nicht machen mich unruhig halt dann zum anderen, ich bin ärgerlich ärgerlich über meine Freunde, mich selbst.",negative,negative,positiv,positive,3518,3543
+270,"Wie so?
+Meine Freunde verlangen schlechterdings, daß ich dem Prinzen von meiner Heirat ein Wort sagen soll, ehe ich sie vollziehe. Sie geben mir zu, ich sei es nicht schuldig: aber die Achtung gegen ihn woll' es nicht anders. – Und ich bin schwach genug gewesen, es ihnen zu versprechen.",negative,negative,negative,neutral,3544,3563
+271,"Eben wollte ich noch bei ihm Vorfahren bei dem Prinze, würde das Geschäft an sich. Es ist in einigen Minuten geschehen nun.",neutral,positive,negative,negative,3565,3598
+272,"Ich komme von des Prinzen Durchlaucht.
+Was ist zu seinem Befehl?
+Ich bin stolz, der Überbringer einer so vorzüglichen Gnade zu sein. – Und wenn Graf Appiani nicht mit Gewalt einen seiner ergebensten Freunde in mir verkennen will – –
+Ohne weitere Vorrede; wenn ich bitten darf.",positive,negative,negative,positive,3612,3628
+273,"Der Prinz muss sogleich an den Herzog von Massa in Angelegenheit seiner Vermählung mit dessen Prinzessin Tochter einen Bevollmächtigten senden. Er war lange unschlüssig, wenn er dazu ernennen sollte, endlich ist seine Wahl Herr Graf.",neutral,positive,negative,neutral,3630,3644
+274,auf sie gefallen,positive,positive,negative,neutral,3646,3646
+275,"Auf mich?
+Und das, – wenn die Freundschaft ruhmredig sein darf – nicht ohne mein Zutun –
+Wahrlich, Sie setzen mich wegen eines Dankes in Verlegenheit. 
+ – Ich habe schon längst nicht mehr erwartet, daß der Prinz mich zu brauchen geruhen werde. –
+Ich bin versichert, daß es ihm bloß an einer würdigen Gelegenheit gemangelt hat. Und wenn auch diese so eines Mannes, wie Graf Appiani, noch nicht würdig genug sein sollte: so ist freilich meine Freundschaft zu voreilig gewesen.
+Freundschaft und Freundschaft, um das dritte Wort! – Mit wem red' ich denn? Des Marchese Marinelli Freundschaft hätt' ich mir nie träumen lassen. –
+Ich erkenne mein Unrecht, Herr Graf, mein unverzeihliches Unrecht, daß ich, ohne Ihre Erlaubnis, Ihr Freund sein wollen. – Bei dem allen: was tut das? Die Gnade des Prinzen, die Ihnen angetragene Ehre, bleiben, was sie sind: und ich zweifle nicht, Sie werden sie mit Begierd' ergreifen.",positive,negative,negative,positive,3650,3710
+276,"Allerdings.
+Nun so kommen Sie.
+Wohin?
+Nach Dosalo, zu dem Prinzen. – Es liegt schon alles fertig; und Sie müssen noch heut' abreisen.
+Was sagen Sie? – Noch heute?",neutral,positive,negative,positive,3711,3726
+277,"So, dann tut es mir leid.",negative,negative,negative,neutral,3732,3737
+278,"daß ich die Ehre, welche mir der Prinz zugedacht, verbitten muß.
+Wie?
+Ich kann heute nicht abreisen; – auch morgen nicht; – auch übermorgen noch nicht. –
+Sie scherzen, Herr Graf.
+Mit Ihnen?
+Unvergleichlich! Wenn der Scherz den Prinzen gilt, so ist er um so viel lustiger. – Sie können nicht?
+Nein, mein Herr, nein. – Und ich hoffe, daß der Prinz selbst meine Entschuldigung wird gelten lassen.
+Die bin ich begierig, zu hören.
+O, eine Kleinigkeit! – Sehen Sie; ich soll noch heut' eine Frau nehmen.",positive,negative,negative,positive,3738,3765
+279,"und dann?
+Und dann? – und dann? – Ihre Frage ist auch verzweifelt naiv.
+Man hat Exempel, Herr Graf, daß sich Hochzeiten aufschieben lassen. – Ich glaube freilich nicht, daß der Braut oder dem Bräutigam immer damit gedient ist. Die Sache mag ihr Unangenehmes haben. Aber doch, dächt' ich, der Befehl des Herrn –
+Der Befehl des Herrn? – des Herrn? Ein Herr, den man sich selber wählt, ist unser Herr so eigentlich nicht – Ich gebe zu, daß Sie dem Prinzen unbedingtern Gehorsam schuldig wären. Aber nicht ich. – Ich kam an seinen Hof als ein Freiwilliger. Ich wollte die Ehre haben, ihm zu dienen; aber nicht sein Sklave werden.",negative,negative,negative,negative,3768,3802
+280,"Ich bin der Vasall eines größern Herrn –
+Größer oder kleiner: Herr ist Herr.
+Daß ich mit Ihnen darüber stritte! – Genug, sagen Sie dem Prinzen, was Sie gehört haben; – daß es mir leid tut, seine Gnade nicht annehmen zu können; weil ich eben heut' eine Verbindung vollzöge, die mein ganzes Glück ausmache.
+Wollen Sie ihn nicht zugleich wissen lassen, mit wem?",negative,negative,positiv,negative,3807,3830
+281,"mit Emilia Galotti Zeremonie nur den Zeremonien Eltern, werden es so genau nicht nehmen. Sie sind mit ihrem ",positive,negative,positiv,positive,3834,3861
+282,Graf. Warum nicht?,neutral,negative,negative,neutral,3871,3872
+283,Himmel und Hölle,negative,negative,positiv,neutral,3874,3876
+284,"Wir werden uns sprechen.
+Pah! Hämisch ist der Affe; aber –
+Tod und Verdammnis! – Graf, ich fodere Genugtuung.
+Das versteht sich.
+Und würde sie gleich jetzt nehmen: – nur daß ich dem zärtlichen Bräutigam den heutigen Tag nicht verderben mag.
+Gutherziges Ding! Nicht doch! Nicht doch! Indem er ihn bei der Hand ergreift. Nach Massa freilich mag ich mich heute nicht schicken lassen; aber zu einem Spaziergange mit Ihnen hab' ich Zeit übrig.",negative,negative,negative,positive,3876,3903
+285,Kommen sie kommen sie.,negative,neutral,negative,neutral,3905,3908
+286,"Nur Geduld, Graf, nur Geduld!
+Geh, Nichtswürdiger! – Ha! das hat gut getan. Mein Blut ist in Wallung gekommen. Ich fühle mich anders und besser.
+Gott! Herr Graf – Ich hab' einen heftigen Wortwechsel gehört. – Ihr Gesicht glühet. Was ist vorgefallen?
+Nichts, gnädige Frau, gar nichts. Der Kammerherr Marinelli hat mir einen großen Dienst erwiesen. Er hat mich des Ganges zum Prinzen überhoben.
+In der Tat?
+Wir können nun um so viel früher abfahren. Ich gehe, meine Leute zu treiben, und bin sogleich wieder hier. Emilia wird indes auch fertig.",positive,positive,positiv,neutral,3920,3961
+287,ganz ruhig gnädige Frau,positive,positive,positiv,neutral,3966,3969
+288,Und so bleibt es dabei. So geht das vor sich so wird Emilia,negative,neutral,negative,neutral,3988,3996
+289,Heute die seinigen. Allem Ansehen nach.,neutral,neutral,negative,neutral,3997,3999
+290,"Ich versprach mir von Ihrem Einfalle so viel! – Wer weiß, wie albern Sie sich dabei genommen. – Wenn der Rat eines Toren einmal gut ist, so muß ihn ein gescheuter Mann ausführen. Das hätt' ich bedenken sollen.
+Da find' ich mich schön belohnt!
+Und wofür belohnt?
+Daß ich noch mein Leben darüber in die Schanze schlagen wollte. – Als ich sah, daß weder Ernst noch Spott den Grafen bewegen konnte, seine Liebe der Ehre nachzusetzen: versucht' ich es, ihn in Harnisch zu jagen. Ich sagte ihm Dinge, über die er sich vergaß. Er stieß Beleidigungen gegen mich aus: und ich foderte Genugtuung, – und foderte sie gleich auf der Stelle.  Und der Graf? – Er stehet in dem Rufe, sich so etwas nicht zweimal sagen zu lassen.
+Nachdem es fällt, ohne Zweifel. – Wer kann es ihm auch verdenken? – Er versetzte, daß er auf heute doch noch etwas Wichtigeres zu tun habe, als sich mit mir den Hals zu brechen. Und so beschied er mich auf die ersten acht Tage nach der Hochzeit.",negative,negative,negative,negative,4002,4051
+291,mit Emilia Galotti,neutral,neutral,negative,neutral,4053,4054
+292,"Der Gedanke macht mich rasend! – Darauf ließen Sie es gut sein, und gingen; – und kommen und prahlen, daß Sie Ihr Leben für mich in die Schanze geschlagen; sich mir aufgeopfert –
+Was wollen Sie aber, gnädiger Herr, das ich weiter hätte tun sollen?
+Weiter tun? – Als ob er etwas getan hätte!
+Und lassen Sie doch hören, gnädiger Herr, was Sie für sich selbst getan haben. – Sie waren so glücklich, sie noch in der Kirche zu sprechen. Was haben Sie mit ihr abgeredet?
+Neugierde zur Gnüge! – Die ich nur befriedigen muß.",negative,positive,negative,negative,4059,4092
+293,"O, es ging alles nach Wunsch. Sie kam meinem Verlangen, mehr als halbes Weges, entgegen. Ich hätte sie nur gleich mitnehmen dürfen Nun wissen Sie, was Sie wissen wollen; – und können gehn!",neutral,negative,negative,negative,4093,4108
+294,"Ja, das ist dann das Ende von dem Lied und würde es eingesetzt auch ich wollte noch das Unmögliche versuchen. Das Unmögliche sag ich.",neutral,negative,negative,neutral,4110,4122
+295,"So unmöglich wär' es nun wohl nicht; aber kühn. – Wenn wir die Braut in unserer Gewalt hätten: so stünd' ich dafür, daß aus der Hochzeit nichts werden sollte.
+Ei! wofür der Mann nicht alles stehen will! Nun dürft' ich ihm nur noch ein Kommando von meiner Leibwache geben, und er legte sich an der Landstraße damit in Hinterhalt, und fiele selbst funfziger einen Wagen an, und riß ein Mädchen heraus, das er im Triumphe mir zubrächte.
+Es ist eher ein Mädchen mit Gewalt entführt worden, ohne daß es einer gewaltsamen Entführung ähnlich gesehen.",positive,negative,negative,negative,4124,4158
+296,"Wenn Sie das zumachen wüssten, so würden sie nicht erst lange davon schwatzen.",negative,negative,neutral,neutral,4163,4169
+297,"Nur für den Ausgang müsste man nicht stehen sollen. Es könnten sich Unglücksfälle dabei ereilen und das ist meiner, dass ich Leute Dinge verantworten lasse wofür Sie nicht können.",neutral,negative,negative,negative,4170,4183
+298,Was war das?,neutral,neutral,negative,positive,4189,4190
+299,Fertig recht hörten sie nicht auch werde gehört allen Schuss fallen.,neutral,negative,negative,neutral,4192,4195
+300,"Und da noch einen!
+Was ist das? was gibts?
+ Wie wann ich tätiger wäre, als Sie glauben?",negative,positive,negative,neutral,4198,4205
+301,"So sagen sie doch kurz, wovon ich gesprochen geschieht.",neutral,negative,positiv,negative,4209,4213
+302,"Ist es möglich?
+Nur vergessen Sie nicht, wessen Sie mich eben versichert. – Ich habe nochmals Ihr Wort – –
+Aber die Anstalten sind doch so –",negative,negative,negative,negative,4214,4221
+303,"Die Ausführung ist Leuten anvertrauet, auf die ich mich verlassen kann. Der Weg geht hart an der Planke des Tiergartens vorbei. Da wird ein Teil den Wagen angefallen haben; gleichsam, um ihn zu plündern. Und ein andrer Teil, wobei einer von meinen Bedienten ist, wird aus dem Tiergarten gestürzt sein; den Angefallenen gleichsam zur Hilfe. Während des Handgemenges, in das beide Teile zum Schein geraten, soll mein Bedienter Emilien ergreifen, als ob er sie retten wolle, und durch den Tiergarten in das Schloß bringen. – So ist die Abrede.",neutral,negative,negative,neutral,4223,4252
+304,ja sagen sie nun,negative,neutral,positiv,neutral,4256,4258
+305,überrasche mich auf eine sonderbare art,neutral,positive,negative,neutral,4263,4265
+306,Auf einer Bangigkeit überfällt mich.,negative,negative,negative,neutral,4266,4269
+307,"und eine Maske kommt bereits um die Planke gesprengt; – ohne Zweifel, mir den Erfolg zu berichten. – Entfernen Sie sich",neutral,positive,negative,neutral,4270,4276
+308,marinelli,negative,neutral,negative,neutral,4278,4279
+309,"Nicht wahr, nun habe ich zu viel getan.",negative,negative,negative,neutral,4283,4286
+310,"und vorhin zu wenig?
+Das nicht. Aber ich sehe bei alle dem nicht ab – –
+Absehn? – Lieber alles mit eins!",negative,negative,negative,neutral,4287,4294
+311,Entfernen Sie sich die Maske muss sie nicht sehen.,neutral,negative,positiv,neutral,4296,4301
+312,"Dort fährt der Wagen langsam nach der Stadt zurück. – So langsam? Und in jedem Schlage ein Bedienter? – Das sind Anzeigen, die mir nicht gefallen; – daß der Streich wohl nur halb gelungen ist; – daß man einen Verwundeten gemächlich zurückführt, – und keinen Toten.",negative,negative,negative,neutral,4324,4342
+313,"Passen sie auf, herr Kammerherr. Man muss sich gleich bringen.",neutral,positive,neutral,neutral,4354,4360
+314,"Und wie lief die Sache sonst ab? Ich denke ja recht gut, wie steht es mit den Grafen zu dienen?",neutral,positive,negative,neutral,4361,4373
+315,so so,positive,neutral,negative,neutral,4374,4375
+316,"Aber er muß Wind gehabt haben. Denn er war nicht so ganz unbereitet.
+Geschwind sage mir, was du mir zu sagen hast!",negative,negative,negative,neutral,4380,4388
+317,Es tut mir leid und den guten Herrn.,neutral,negative,neutral,neutral,4392,4394
+318,hier,neutral,neutral,neutral,neutral,4398,4398
+319,für dein mitleidiges Herz vollends mein braver Nikolaus.,negative,positive,negative,neutral,4400,4403
+320,"mitbezahlen müssen, ach so, Verlust auf beiden Seiten.",neutral,negative,negative,negative,4405,4410
+321,"Ich könnte weinen und den ehrlichen Jungen, ob mir sein Tod schon verbessert, wenn ich dann sein Erbe, weil ich ihn gerächt habe, das ist unser Gesetz.",positive,negative,negative,neutral,4412,4423
+322,"ein so gutes, mein' ich, als für Treu und Freundschaft je gemacht worden. Dieser Nicolo, Herr Kammerherr –
+Mit deinem Nicolo! – Aber der Graf, der Graf –
+Blitz! der Graf hatte ihn gut gefaßt. Dafür faßt' ich auch wieder den Grafen! – Er stürzte; und wenn er noch lebendig zurück in die Kutsche kam: so steh' ich dafür, daß er nicht lebendig wieder heraus kommt.
+Wenn das nur gewiß ist, Angelo.
+Ich will Ihre Kundschaft verlieren, wenn es nicht gewiß ist! – Haben Sie noch was zu befehlen? denn mein Weg ist der weiteste: wir wollen heute noch über die Grenze.
+So geh.
+Wenn wieder was vorfällt, Herr Kammerherr,",negative,negative,negative,negative,4424,4467
+323,"Sie wissen, wo ich da fragen bin.",neutral,negative,neutral,neutral,4469,4470
+324,"Was ist ein anderer zu tun getraut wird, kann ich auch keine Hexerei sein billiger bin ich als jeder andere gut das aber doch nicht so recht gut.",positive,negative,negative,neutral,4472,4485
+325,So ein Knicker zu sein.,negative,neutral,negative,neutral,4487,4491
+326,an zweiten Schuss,neutral,neutral,negative,neutral,4492,4493
+327,Wer wohl noch wert gewesen?,negative,positive,negative,neutral,4494,4496
+328,"Und wie er sich jetzt vielleicht martern muss der arme Graf, pfui, das heißt sein Handwerk sehr grausam treiben und verpfuschen.",negative,negative,negative,positive,4500,4510
+329,"Aber davon muss der Prinz noch nichts wissen, er muss erst selbst sehen, wie zuträglich ihm dieser Tod ist dieser Tod, was gäb ich um seine Gewissheit.",neutral,positive,negative,negative,4511,4527
+330,die Allee herauf,neutral,neutral,negative,neutral,4529,4530
+331,Etwa mit den Bedienten her?,neutral,neutral,negative,neutral,4531,4533
+332,Nicht wie es scheint.,negative,negative,negative,neutral,4534,4535
+333,"Beflügelt den Füßen. Nein, sie muss noch nichts argwöhnen, sie glaubt sich nur vor Räubern zu retten",neutral,positive,negative,neutral,4536,4543
+334,Aber wie lange kann das dauern? So haben wir sie doch fürs erste wird die Mutter sie nicht aufsuchen wird der Graf ihr nicht nachkommen.,negative,negative,negative,neutral,4544,4552
+335,Was sind wir als denn weit?,neutral,negative,negative,neutral,4553,4555
+336,"Wie kann ich Sie Ihnen vorenthalten auf all das weiß ich freilich noch nicht zu antworten, aber wir müssen sehen. gedulden Sie sich gnädiger Herr. Der erste Schritt musste doch getan sein. Wozu, wenn wir ihn zurück tun, vielleicht müssen wir nicht das sind tausend Dinge auf die sich weiter fußen lässt.",negative,negative,negative,negative,4556,4575
+337,Vergessen Sie denn das vornehmste?,neutral,neutral,negative,negative,4577,4579
+338,vornehmste,neutral,neutral,positiv,negative,4582,4582
+339,"was Die Kunst zu gefallen, zu überreden, – die einem Prinzen, welcher liebt, nie fehlet.",positive,negative,negative,negative,4584,4592
+340,Fehlt außer wo er Sie gerade am nötigsten brauchten.,negative,negative,negative,neutral,4594,4598
+341,Ich habe von dieser Kunst schon heute eine zu schlechten Versuch gemacht mit allem Schmeicheleien und Beteuerungen konnte ich ja auch nicht ein Wort aussprechen.,negative,negative,negative,negative,4600,4610
+342,stumm zittern,negative,negative,negative,neutral,4611,4614
+343,"Stand sie da, ihre Angst steckte mich an, ich zitterte mit und schloss mit einer Bitte um Vergebung kaum getraue ich mich so wieder anzureden.",negative,negative,negative,negative,4615,4627
+344,ich hätte wenigstens,negative,neutral,negative,neutral,4628,4630
+345,mags noch nicht,negative,negative,negative,neutral,4631,4632
+346,Emilia,negative,neutral,negative,neutral,4637,4637
+347,"sie müssen sie empfangen will hier in der Nähe hören, wie es abläuft kommen, wenn ich mich mehr gesammelt habe.",negative,positive,negative,neutral,4639,4645
+348,"Wenn sie nur nicht selbst stürzen gesehen und das muss sie ja wohl nicht, dass ich sofort hierher eilt, sie kommt.",negative,negative,negative,neutral,4645,4664
+349,"Auch ich will nicht das erste sein, was der hier in die Augen fällt.",neutral,negative,positiv,neutral,4682,4693
+350,Nur hier herein gnädiges Fräuleint.,positive,positive,negative,neutral,4707,4713
+351,"Danke, mein Freund. Ich danke Ihnen.",positive,positive,negative,neutral,4720,4725
+352,aber Gott,negative,neutral,positiv,neutral,4727,4728
+353,"Gott wo bin ich und so ganz allein, wo bleibt meine Mutter, wo blieb der Graf sie kommen doch nach mir auf dem Fuß. Ich vermute, er vermutet. Er weiß es nicht, er sah sie nicht.",negative,negative,positiv,neutral,4730,4746
+354,"gar hinter uns geschossen? –
+Geschossen? – Das wäre! –
+Ganz gewiß! Und das hat den Grafen, oder meine Mutter getroffen. –
+Ich will gleich nach ihnen ausgehen.
+Nicht ohne mich. – Ich will mit; ich muß mit: komm Er, mein Freund!",negative,negative,positiv,neutral,4747,4763
+355,Wer ist voll was für ein Unglück oder vielmehr was für ein Glück was für ein glückliches Unglück verschafft uns die Ehre?,negative,negative,negative,neutral,4764,4774
+356,mein Herr,positive,neutral,negative,neutral,4778,4780
+357," Ich bin also wohl bei Ihnen? – Verzeihen Sie, Herr Kammerherr. Wir sind von Räubern ohnfern überfallen worden. Da kamen uns gute Leute zu Hilfe; – und dieser ehrliche Mann hob mich aus dem Wagen, und brachte mich hierher. – Aber ich erschrecke, mich allein gerettet zu sehen. Meine Mutter ist noch in der Gefahr. Hinter uns ward sogar geschossen. Ich muß fort; ich muß wieder hin, – wo ich gleich hätte bleiben sollen.
+Beruhigen Sie sich, gnädiges Fräulein. Es steht alles gut; die geliebten Personen werden bald bei ihnen sein. Battista, geh', lauf: sie dürften vielleicht nicht wissen, wo das Fräulein ist. Bringe sie unverzüglich hierher. ich sollte ihnen entgegen eilen –",positive,negative,positiv,neutral,4782,4821
+358,"Erholen sich vielmehr und wir holen in ein Zimmer zu treten, wo mehr Bequemlichkeit ist.",positive,positive,positiv,neutral,4827,4834
+359,"Ich will wetten, dass der Prinz schon selbst du mir das eure ehrwürdige Mutter ist und sie ihn zuführt. Wer sagen Sie? Unser gnädigster Prinz selbst.",positive,positive,negative,neutral,4836,4843
+360,Der prinz! er Floh auf die erste Nachricht in zu helfen.,positive,positive,negative,neutral,4845,4850
+361,der Prinz,neutral,neutral,positiv,neutral,4852,4854
+362,"ja, wo bin ich denn? Also auf dosalo dem Lustschloss?",neutral,neutral,negative,neutral,4857,4862
+363,"Und sie glauben, dass er gleich selbst.",neutral,positive,negative,neutral,4863,4867
+364,erscheinen könne,neutral,neutral,negative,neutral,4868,4869
+365,"unter seinen Augen gleichsam hat dürfen gewagt werden, er lässt den Täter nachsetzen und die Strafe wenn sie ergriffen wird wird unerhört sein.",negative,positive,negative,neutral,4874,4884
+366,Wir suchen Sie überall.,neutral,negative,negative,neutral,4893,4894
+367,schönstes Fräulein,positive,positive,negative,neutral,4895,4896
+368,sie sind obwohl,neutral,neutral,negative,neutral,4897,4898
+369,nun so ist alles,positive,neutral,negative,neutral,4900,4901
+370,der Graf ihre Mutter,neutral,negative,negative,neutral,4903,4904
+371,gnädigster Herr wo sind sie?,neutral,positive,positiv,negative,4905,4907
+372,wo ist meine Mutter,negative,neutral,negative,neutral,4908,4909
+373,Hier ganz in der Nähe. Gott in welchen zustande werde ich die eine oder den anderen vielleicht treffen?,negative,positive,positiv,neutral,4912,4920
+374,"ganz gewiss treffen, wenn sie",neutral,neutral,positiv,neutral,4923,4924
+375,Sie fehlen mir gnädiger Herr ich sehe es sie verhehlen mir.,negative,negative,positiv,neutral,4927,4933
+376,nicht,neutral,negative,negative,neutral,4934,4935
+377,beste Fräulein,positive,positive,negative,neutral,4936,4937
+378,geben sie mir ihren Arm,positive,negative,negative,neutral,4940,4941
+379,folgen Sie mir,positive,neutral,negative,neutral,4943,4944
+380,getrost,positive,neutral,neutral,neutral,4946,4946
+381,"Aber wenn ich nichts widerfahren, warum sind wir nicht schon hier, warum kamen sie nicht mit ihnen gnädiger Herr?",negative,negative,positiv,neutral,4957,4963
+382,Sollen sie doch mal an alle diese Schreckensbilder mit ein Verschwinden zu sehen.,negative,negative,negative,neutral,4965,4970
+383,Was soll ich tun?,positive,negative,positiv,neutral,4972,4973
+384,Sollten Sie einen Verdacht gegen mich hegen.,negative,negative,negative,neutral,4978,4980
+385,zu ihren Füßen,negative,negative,negative,neutral,4996,4997
+386,ich bin,neutral,neutral,neutral,neutral,5003,5004
+387,beschämt,neutral,negative,neutral,neutral,5005,5005
+388,Emilia ich verdiene diesen stummen Vorwurf.,positive,negative,neutral,neutral,5008,5013
+389,Meine Handeln diesen Morgen ist nicht zu rechtfertigen zu entschuldigen höchstens.,negative,negative,negative,neutral,5015,5020
+390,Verzeihen Sie meine Sprache.,negative,positive,negative,neutral,5022,5024
+391,"Ich hätte sie mit keinen Geständnisse beunruhigen sollen, von dem ich keinen Vorteil zu erwarten habe auch warte ich durch die sprachlose bestürzung und mit der sie es anhören vielmehr nicht anhören.",negative,negative,negative,neutral,5026,5038
+392,Genug Sachen bestraft könnte ich schon diesen Zufall der mir nochmals.,positive,negative,negative,neutral,5040,5046
+393,Ihr alle meine Hoffnung auf ewig verschwindet gehen wir nochmals das Glück sie zu sehen.,negative,negative,negative,negative,5047,5054
+394,zu sprechen verschaffen.,negative,neutral,neutral,negative,5055,5057
+395,könnte ich schon diesen Zufall für den Wink eines günstigen Glückes erklären für den wunderbarsten Aufschub meiner endlichen Verurteilung erklären so will ich doch beten sie nicht mein Fräulein,negative,positive,neutral,negative,5058,5074
+396,"So will ich doch einzig und allein von ihrem Blicke Abhang kein Wort, kein Seufzer soll sie beleidigen.",positive,negative,negative,neutral,5075,5087
+397,Nur kränke mich nicht ihr Misstrauen.,negative,negative,neutral,neutral,5088,5090
+398,Auch wenn Sie keinen Augenblick.,negative,neutral,negative,neutral,5091,5093
+399,"Umschränkesten Gewalt, die sie über mich haben.",negative,negative,neutral,neutral,5095,5099
+400,"Nur fall Ihnen niemals, dass Sie eines anderen Schutzes gegen mich bedürfen.",negative,negative,negative,negative,5101,5106
+401,Und nun kommen Sie mein Fräulein.,neutral,neutral,negative,neutral,5108,5115
+402,"Komm wo Annehmlichkeiten auf, sie warten, die Sie mehr billigen.",positive,negative,negative,neutral,5116,5121
+403,Folgen sie uns das mag heißen folgen Sie uns nicht.,neutral,negative,negative,neutral,5134,5142
+404,"Was hätte ich ihn auch zu folgen? Er mag sehen, wie weit ist unter vier Augen mit ihr bringt.",neutral,positive,negative,neutral,5144,5148
+405,"Alles was ich zu tun habe ist zu verhindern, dass sie nicht gestört werden.",neutral,negative,negative,neutral,5149,5152
+406,An den Grafen zwar auf mich nun wohl nicht aber von der Mutter von der Mutter.,neutral,negative,negative,neutral,5153,5158
+407,"Es sollte mich sehr wundern, wenn die so ruhig abgezogen wäre, und ihre Tochter im Stiche gelassen hätte. – Nun, Battista? was gibts?
+Die Mutter, Herr Kammerherr –
+Dacht' ichs doch! – Wo ist sie?
+Wann Sie ihr nicht zuvorkommen, so wird sie den Augenblick hier sein. Sie ist der Tochter auf der Spur, und wo nur nicht – unserm ganzen Anschlage! Ob man ihr schon gesagt, daß der Prinz hier ist, daß Sie hier sind, weiß ich nicht. – Was wollen Sie tun? Sie nicht einlassen, wenn sie weiß, daß die Tochter hier ist? – Das geht nicht. – Freilich, sie wird Augen machen, wenn sie den Wolf bei dem Schäfchen sieht. – Augen? Das möchte noch sein. Aber der Himmel sei unsern Ohren gnädig! – Nun was? die beste Lunge erschöpft sich; auch so gar eine weibliche.  Wenn ich die Mütter recht kenne: – so etwas von einer Schwiegermutter eines Prinzen zu sein, schmeichelt die meisten. ",neutral,negative,negative,negative,5161,5215
+408,"Sprich, wo ist sie? Sie könnte in dem Schoße der Seligkeit nicht aufgehobener sein hier, mein Herr wird Ihre Gnaden zu ihr führen  Dein Herr? Das dein Herr? – Sie hier, mein Herr? Und hier meine Tochter? Und Sie, Sie sollen mich zu ihr führen?
+Mit vielem Vergnügen, gnädige Frau. Halten Sie! – Sie waren es ja – nicht?",negative,negative,negative,neutral,5221,5249
+409,"Grafen diesen Morgen in meinem Hause aufsuchte? mit dem ich ihn allein ließ? mit dem er Streit bekam?
+Streit? – ein unbedeutender Wortwechsel in herrschaftlichen Angelegenheiten –
+Und Marinelli heißen Sie?",neutral,negative,positiv,neutral,5251,5265
+410,marinelli,neutral,neutral,positiv,negative,5272,5274
+411,war der Name marinelli?,neutral,neutral,negative,negative,5277,5280
+412,"Begleitet mit deiner Verwünschung. Nein, dass ich den edelen mann nicht verleumdet begleitet mit keiner Verwünschung. Die Verwünschung denke ich hinzu.",neutral,negative,positiv,negative,5281,5291
+413,der Name marinelli,neutral,neutral,positiv,negative,5292,5294
+414,Das letzte Wort.,neutral,neutral,negative,negative,5297,5298
+415,Sterbenden Grafen,neutral,neutral,positiv,negative,5300,5302
+416,Ja,neutral,neutral,negative,neutral,5306,5307
+417,sie hören,neutral,neutral,negative,neutral,5309,5310
+418,"was mir an ihrer seltsamen Rede am meisten auffällt, des sterbenden Grafen, was Sie sonst sagen wollten, verstehe ich nicht. Der Name marinelli.",negative,negative,negative,negative,5311,5325
+419,das letzte Wort?,neutral,neutral,negative,neutral,5327,5328
+420,"Grafen! – Verstehen Sie nun? – Ich verstand es erst auch nicht: ob schon mit einem Tone gesprochen – mit einem Tone! – Ich höre ihn noch! Wo waren meine Sinne, daß sie diesen Ton nicht sogleich verstanden?
+Nun, gnädige Frau? – Ich war von je her des Grafen Freund; sein vertrautester Freund. Also, wenn er mich noch im Sterben nannte –
+Mit dem Tone? – Ich kann ihn nicht nachmachen; ich kann ihn nicht beschreiben; aber er enthielt alles! alles! – Was? Räuber wären es gewesen, die uns anfielen? – Mörder waren es; erkaufte",negative,negative,negative,positive,5329,5369
+421,"Mit einem Tone!
+Mit einem Tone? – Ist es erhört, auf einen Ton, in einem Augenblicke des Schreckens vernommen, die Anklage eines rechtschaffnen Mannes zu gründen?
+Ha, könnt' ich ihn nur vor Gerichte stellen, diesen Ton! – Doch, weh mir! Ich vergesse darüber meine Tochter. – Wo ist sie? – Wie? auch tot? – Was konnte meine Tochter dafür, daß Appiani dein Feind war?
+Ich verzeihe der bangen Mutter. – Kommen Sie, gnädige Frau – Ihre Tochter ist hier; in einem von den nächsten Zimmern: und hat sich hoffentlich von ihrem Schrecken schon völlig erholt. Mit der zärtlichsten Sorgfalt ist der Prinz selbst um sie beschäftiget –
+Wer? – Wer selbst?
+Der Prinz.
+Der Prinz? – Sagen Sie wirklich, der Prinz?",negative,negative,positiv,negative,5378,5418
+422,unser Prinz. Ja welcher sonst.,neutral,neutral,positiv,neutral,5419,5420
+423,ich unglückselige Mutter und ihr Vater.,negative,negative,negative,neutral,5428,5449
+424,"Er wird den Tag ihrer Geburt verfluchen. Er wird mich verfluchen.
+Um des Himmels willen, gnädige Frau! Was fällt Ihnen nun ein?
+Es ist klar! – Ist es nicht? – Heute",negative,negative,positiv,neutral,5450,5466
+425,"vor den Augen der Allerreinesten! in der nähern Gegenwart des Ewigen! – begann das Bubenstück; da brach es aus! Gegen den Marinelli. Ha, Mörder! feiger, elender Mörder! Nicht tapfer genug, mit eigner Hand zu morden; aber nichtswürdig genug, zu Befriedigung eines fremden Kitzels zu morden! – morden zu lassen! – Abschaum aller Mörder! – Was ehrliche Mörder sind, werden dich unter sich nicht dulden! Dich! Dich! – Denn warum soll ich dir nicht alle meine Galle, allen meinen Geifer mit einem einzigen Worte ins Gesicht speien? – Dich! Dich Kuppler!
+Sie schwärmen, gute Frau. – Aber mäßigen Sie wenigstens Ihr wildes Geschrei, und bedenken Sie, wo Sie sind.",negative,negative,positiv,positive,5468,5524
+426,Ich höre meine mutter.,neutral,neutral,negative,neutral,5528,5531
+427,Mutter,neutral,neutral,negative,neutral,5535,5537
+428,"Stimme, das ist sie, sie hat mich gehört und ich sollte nicht schreien, wo bist du? Mein Kind? Ich komme.",positive,negative,positiv,neutral,5538,5549
+429,und komme,neutral,neutral,positiv,neutral,5552,5553
+430,"Ich muß mich erholen – und muß Licht von Ihnen haben.
+O der mütterlichen Wut! Ha! ha! ha!
+Sie lachen?
+Wenn Sie gesehen hätten, Prinz, wie toll sich hier, hier im Saale, die Mutter gebärdete – Sie hörten sie ja wohl schreien! – und wie zahm sie auf einmal ward, bei dem ersten Anblicke von Ihnen – – Ha! ha! – Das weiß ich ja wohl, daß keine Mutter einem Prinzen die Augen auskratzt, weil er ihre Tochter schön findet!
+Sie sind ein schlechter Beobachter! – Die Tochter stürzte der Mutter in die Arme. Darüber vergaß die Mutter ihre Wut: nicht über mir.",positive,negative,negative,negative,5568,5606
+431,"Ihre Tochter schonte sie nicht mich, wenn sie es nicht lauter und nicht deutlicher gesagt hättest, was ich lieber selbst nicht gehört und nicht verstanden haben will. ja was gnädiger Herr.",negative,negative,negative,negative,5607,5620
+432,wozu die Verstellung,neutral,neutral,negative,neutral,5622,5623
+433,Ist das wahr?,negative,positive,neutral,neutral,5625,5626
+434,"Oh, das ist nicht wahr und wenn es denn wäre, wenn es denn",negative,negative,negative,neutral,5627,5632
+435,also ist es,negative,neutral,negative,negative,5634,5635
+436,Er ist tot tot Marinelli Marinelli.,negative,negative,negative,negative,5637,5645
+437,bei Gott,negative,neutral,negative,neutral,5671,5672
+438,bei dem all gerechten Gott,negative,positive,negative,negative,5673,5675
+439,Ich bin unschuldig an diesem Blut.,negative,positive,negative,negative,5677,5679
+440,"Wenn sie es mir vorher gesagt hätten, dass es den Grafen das Leben kosten wird.",negative,neutral,negative,neutral,5695,5701
+441,"und wenn es mir selbst das Leben gekostet hätte! –
+Wenn ich Ihnen vorher gesagt hätte? – Als ob sein Tod in meinem Plane gewesen wäre! Ich hatte es dem Angelo auf die Seele gebunden, zu verhüten, daß niemanden Leides geschähe. Es würde auch ohne die geringste Gewalttätigkeit abgelaufen sein, wenn sich der Graf nicht die erste erlaubt hätte. Er schoß Knall und Fall den einen nieder.
+Wahrlich; er hätte sollen Spaß verstehen!
+Daß Angelo sodann in Wut kam, und den Tod seines Gefährten rächte –
+Freilich, das ist sehr natürlich!
+Ich hab' es ihm genug verwiesen.
+Verwiesen? Wie freundschaftlich! – Warnen Sie ihn, daß er sich in meinem Gebiete nicht betreten läßt. Mein Verweis möchte so freundschaftlich nicht sein.
+Recht wohl! – Ich und Angelo; Vorsatz und Zufall: alles ist eins. – Zwar ward es voraus",negative,negative,negative,negative,5704,5752
+442,"wofür sie mich halten, eine einzige Vorstellung.",negative,neutral,negative,negative,5764,5766
+443,"Ich hatte ihn herausgefordert, er war mir Genugtuung schuldig, ist ohne diese aus der Welt gegangen meine Ehre bleibt beleidigt.",negative,negative,negative,negative,5772,5778
+444,"Jetzt nicht verdient ja unter allen anderen Umständen den Verdacht, der sie gegen mich hegen.",negative,negative,positiv,neutral,5779,5784
+445,"Nun gut, nun gut, sein Tod war Zufall, bloßer Zufall.",negative,positive,negative,negative,5794,5801
+446,Sie versichern es und ich ich glaube.,negative,positive,negative,negative,5802,5806
+447,Aber wer mehr?,neutral,neutral,negative,negative,5807,5808
+448,"Auch die Mutter? Auch Emilia? – Auch die Welt?
+Schwerlich.
+Und wenn man es nicht glaubt, was wird man denn glauben? – Sie zucken die Achsel? – Ihren Angelo wird man für das Werkzeug, und mich für den Täter halten –
+Wahrscheinlich genug.
+Mich! mich selbst! – Oder ich muß von Stund an alle Absicht auf Emilien aufgeben –
+Was Sie auch gemußt hätten –",negative,negative,negative,negative,5810,5829
+449,Sie sollen mich nicht wild machen.,negative,negative,negative,neutral,5832,5835
+450,"Es sei so – Es ist so! Und das wollen Sie doch nur sagen: der Tod des Grafen ist für mich ein Glück – das größte Glück, was mir begegnen konnte, ein Graf mehr oder weniger in der Welt. Denk ich ihnen so recht?",negative,positive,negative,neutral,5837,5851
+451,"auch ich erschrecke vor einem kleinen Verbrechen nicht. Nur, guter Freund, muß es ein kleines stilles Verbrechen, ein kleines heilsames Verbrechen sein. Und sehen Sie, unseres da, wäre nun gerade weder stille noch heilsam. Es hätte den Weg zwar gereiniget, aber zugleich gesperrt. Jedermann würde es uns auf den Kopf zusagen, – und leider hätten wir es gar nicht einmal begangen! – Das liegt doch wohl nur bloß an Ihren weisen, wunderbaren Anstalten?
+Wenn Sie so befehlen –
+Woran sonst? – Ich will Rede!
+Es kommt mehr auf meine Rechnung, was nicht darauf gehört.
+Rede will ich!
+Nun dann! Was läge an meinen Anstalten? daß den Prinzen bei diesem Unfalle ein so sichtbarer Verdacht trifft? – An dem Meisterstreiche liegt das, den er selbst meinen Anstalten mit einzumengen die Gnade hatte.
+Ich?
+Er erlaube mir, ihm zu sagen, daß der Schritt, den 
+er heute Morgen in der Kirche getan,",negative,negative,negative,neutral,5854,5903
+452,"Versteh' ich Sie?
+Also, kurz und einfältig. Da ich die Sache übernahm, nicht wahr, da wußte Emilia von der Liebe des Prinzen noch nichts? Emiliens Mutter noch weniger. Wenn ich nun auf diesen Umstand baute? und der Prinz indes den Grund meines Gebäudes untergrub? –
+Verwünscht!
+Wenn er es nun selbst verriet, was er im Schilde führe?
+Verdammter Einfall!
+Und wenn er es nicht selbst verraten hätte? – Traun! ich möchte doch wissen, aus welcher meiner Anstalten, Mutter oder Tochter den geringsten Argwohn gegen ihn schöpfen könnte?
+Daß Sie Recht haben!
+Daran tu' ich freilich sehr Unrecht – Sie werden verzeihen, gnädiger Herr –
+Eben kömmt die Gräfin an.
+Die Gräfin? Was für eine Gräfin?
+Orsina.
+Orsina? – Marinelli! – Orsina? – Marinelli!
+Ich erstaune darüber, nicht weniger als Sie selbst.",negative,negative,negative,positive,5919,5969
+453,"Geh lauf Battista, sie soll nicht aussteigen, ich bin nicht hier, ich bin für sie nicht hier, sie soll augenblicklich wieder umkehren.",negative,negative,negative,neutral,5972,5981
+454,Was will die Närrin?,negative,neutral,negative,neutral,5982,5983
+455,"was untersteht sie sich? Wie weiß sie, dass wir hier",negative,negative,negative,neutral,5984,5988
+456,"sollte Sie wohl als Kundschaft kommen, sollte sie wohl schon etwas vernommen haben.",negative,neutral,negative,neutral,5991,5997
+457,Ach Marinelli so reden sie so antworten sie doch.,negative,neutral,negative,neutral,5999,6002
+458,"Ist er beleidigt, der Mann der mein Freund sein will und durch einen elenden Wortwechsel beleidigt soll ich ihn um Verzeihung bitten.",negative,negative,negative,neutral,6003,6010
+459,"sobald sie wieder sie sind, wenn ich mit ganzer Seele der Ihrige",positive,neutral,negative,neutral,6014,6018
+460,"Die Ankunft der Orsina ist mir ein Rätsel, wie Ihnen. Doch abweisen wird sie schwerlich sich lassen. Was wollen Sie tun?
+Sie durchaus nicht sprechen; mich entfernen –
+Wohl! und nur geschwind. Ich will sie empfangen –
+Aber bloß, um sie gehen zu heißen. – Weiter geben Sie mit ihr sich nicht ab. Wir haben andere Dinge hier zu tun –
+Nicht doch, Prinz! Diese andern Dinge sind getan. Fassen Sie doch Mut! Was noch fehlt, kömmt sicherlich von selbst. – Aber hör' ich sie nicht schon? – Eilen Sie, Prinz! – Da,",negative,negative,negative,negative,6019,6045
+461,wenn Sie uns hören,neutral,negative,negative,positive,6046,6049
+462,"Ich fürchte, ich fürchte sie ist nicht zur ihrer besten Stunde ausgefahren.",neutral,negative,positiv,neutral,6054,6063
+463,"Was ist das? – Niemand kommt mir entgegen, außer ein Unverschämter, der mir lieber gar den Eintritt verweigert hätte? – Ich bin doch zu Dosalo? Zu dem Dosalo, wo mir sonst ein ganzes Heer geschäftiger Augendiener entgegen stürzte?",positive,negative,positiv,neutral,6081,6101
+464,"wo mich sonst Liebe und Entzücken erwarteten? – Der Ort ist es; aber, aber! – Sieh' da, Marinelli! – Recht gut, daß der Prinz Sie mitgenommen. – Nein, nicht gut! Was ich mit ihm auszumachen hätte, hätte ich nur mit ihm auszumachen. – Wo ist er?
+Der Prinz, meine gnädige Gräfin?
+Wer sonst?
+Sie vermuten ihn also hier? wissen ihn hier? – Er wenigstens ist der Gräfin Orsina hier nicht vermutend.
+Nicht? So hat er meinen Brief heute Morgen nicht erhalten?
+Ihren Brief? Doch ja; ich erinnere mich, daß er eines Briefes von Ihnen erwähnte.
+Nun? habe ich ihn nicht in diesem Briefe auf heute um eine Zusammenkunft hier auf Dosalo gebeten? – Es ist wahr, es hat ihm nicht beliebt, mir schriftlich zu antworten. Aber ich erfuhr, daß er eine Stunde darauf wirklich nach Dosalo abgefahren. Ich glaubte, das sei Antworts genug; und ich komme.",positive,negative,negative,positive,6103,6162
+465,"Zufall? – Sie hören ja, daß es verabredet worden. So gut, als verabredet. Von meiner Seite, der Brief: von seiner, die Tat. – Wie er da steht, der Herr Marchese! Was er für Augen macht! Wundert sich das Gehirnchen? und worüber denn?
+Sie schienen gestern so weit entfernt, dem Prinzen jemals wieder vor die Augen zu kommen.
+Beßrer Rat kömmt über Nacht.",neutral,positive,positiv,negative,6163,6183
+466,"Wo ist er? wo ist er? – Was gilts, er ist in dem Zimmer, wo ich das Gequicke, das Gekreusche hörte? – Ich wollte herein, und der Schurke vom Bedienten trat vor.
+Meine liebste, beste Gräfin –
+Es war ein weibliches Gekreusche. Was gilts, Marinelli? – O sagen Sie mir doch, sagen Sie mir – wenn ich anders Ihre liebste, beste Gräfin bin – Verdammt, über das Hofgeschmeiß! So viel Worte, so viel Lügen! –",negative,positive,positiv,negative,6184,6219
+467,"Nun was liegt daran ob sie's mir voraussagen oder nicht, ich werde es ja wohl sehen wohin.",positive,negative,positiv,neutral,6220,6225
+468,"Wo ich längst sein sollte. – Denken Sie, daß es schicklich ist, mit Ihnen hier in dem Vorgemache einen elenden Schnickschnack zu halten, indes der Prinz in dem Gemache auf mich wartet?
+Sie irren sich, gnädige Gräfin. Der Prinz erwartet 
+Sie nicht. Der Prinz kann Sie hier nicht sprechen, – will Sie nicht sprechen.
+Und wäre doch hier? und wäre doch auf meinen Brief hier?
+Nicht auf Ihren Brief –
+Den er ja erhalten, sagen Sie –",neutral,negative,positiv,positive,6234,6264
+469,nicht,negative,negative,negative,neutral,6274,6275
+470,"Aus Zerstreuung weiß ich nicht aus Verachtung Verachtung wer denkt denn daran, sie sind ja ein unverschänter Tröster, Verachtung, ach Verachtung, mich verachtet.",positive,negative,positiv,positive,6278,6299
+471,"Freilich liebt er mich nicht mehr. Das ist ausgemacht und an die Stelle der Liebe trat in seiner Seele etwas anderes, das ist natürlich aber warum denn eben Verachtung es braucht ja nur Gleichgültigkeit zu sein, nicht wahr, Marinelli allerdings, allerdings, allerdings. Oh des weisen Mannes, den man sagen lassen kann, was man will.",negative,negative,negative,neutral,6304,6331
+472,Gleichgültigkeit,neutral,negative,positiv,neutral,6332,6334
+473,Gleichgültigkeit an die Stelle der Liebe,neutral,negative,positiv,neutral,6336,6339
+474,Das heißt nicht.,neutral,negative,positiv,negative,6340,6342
+475,an die Stelle von etwas,neutral,neutral,negative,neutral,6344,6345
+476,lernen Sie die,neutral,positive,negative,neutral,6346,6347
+477,Sie nachplauderndes Hofmännchen lernen Sie von einem Weibe das Gleichgültigkeit.,negative,negative,positiv,neutral,6349,6355
+478,ein leeres Wort,neutral,negative,positiv,neutral,6356,6357
+479,ein bloßer Schall ist denn nicht,negative,negative,positiv,neutral,6359,6361
+480,gar nicht entspricht,neutral,negative,negative,neutral,6363,6365
+481,gleichgültig,neutral,negative,positiv,neutral,6366,6368
+482,Ist die Seele nur gegen das woran sie nicht denkt?,neutral,negative,positiv,neutral,6370,6373
+483,"Nur gegen ein Ding, das für sie kein Ding ist.",negative,positive,positiv,neutral,6374,6377
+484,Und nur gleichgültig für ein Ding das kein Ding ist.,negative,negative,positiv,neutral,6379,6382
+485,Das ist zu viel.,neutral,neutral,negative,neutral,6384,6386
+486,Ist dir das zu hoch?,neutral,positive,negative,negative,6391,6392
+487,Mensch,positive,neutral,positiv,negative,6394,6394
+488,"O weh! wie wahr ist es, was ich fürchtete!
+Was murmeln Sie da?
+Lauter Bewunderung! – Und wem ist es nicht bekannt, gnädige Gräfin, daß Sie eine Philosophin sind?
+Nicht wahr? – Ja, ja; ich bin eine. – Aber habe ich mir es itzt merken lassen, daß ich eine bin? – O pfui, wenn ich mir es habe merken lassen; und wenn ich mir es öfter 
+habe merken lassen! Ist es wohl noch Wunder, daß mich der Prinz verachtet? Wie kann ein Mann ein Ding lieben, das, ihm zum Trotze, auch denken will? Ein Frauenzimmer, das denkt, ist eben so ekel als ein Mann, der sich schminket. Lachen soll es, nichts als lachen, um immerdar den gestrengen Herrn der Schöpfung bei guter Laune zu erhalten. – Nun, worüber lach' ich denn gleich, Marinelli? – Ach, ja wohl! Über den Zufall! daß ich dem Prinzen schreibe, er soll nach Dosalo kommen; daß der Prinz meinen Brief nicht liest, und daß er doch nach Dosalo kömmt.",positive,negative,positiv,positive,6397,6454
+489,"Wahrlich ein sonderbarer Zufall! Sehr lustig, sehr närrisch! – Und Sie lachen nicht mit, Marinelli? – Mitlachen kann ja wohl der gestrenge Herr der Schöpfung, ob wir arme Geschöpfe gleich nicht mitdenken dürfen. ",positive,negative,positiv,neutral,6457,6473
+490,"So lachen Sie doch!
+Gleich, gnädige Gräfin, gleich!
+Stockfisch! Und darüber",positive,positive,negative,neutral,6474,6484
+491,Geht der Augenblick vorbei? Nein.,positive,neutral,positiv,neutral,6485,6489
+492,"Nein, lachen sie nur nicht Marinelli, denn sehen Sie Marinelli, was mich so herzlich lachen macht.",negative,negative,negative,neutral,6491,6496
+493,Das hat auch seine ernsthafte.,negative,positive,negative,neutral,6497,6499
+494,Seite,neutral,neutral,neutral,neutral,6501,6501
+495,Ernsthafte Seite wie alles in der Welt Zufall?,neutral,positive,positiv,neutral,6502,6506
+496,Ein Zufall wäre es.,neutral,neutral,negative,neutral,6508,6511
+497,Dass der Prinz nicht daran gedacht mich hier zu sprechen und mich doch hier sprechen muss.,neutral,negative,negative,negative,6512,6518
+498,ein Zufall,neutral,neutral,positiv,neutral,6520,6520
+499,Glauben Sie mir Marinelli das Wort Zufall.,neutral,neutral,positiv,neutral,6523,6525
+500,"Ist Gotteslästerung nichts unter der Sonne ist Zufall am wenigsten das wovon die Absicht so klar in die auch Augen leuchtet allmächtiger eine gültige Vorsehung vergib mir, dass ich mit diesem albernen Sündern einen Zufall genannt was so offenbar dein Werk wohl kein unmittelbarer und verleiten sie mich noch einmal. So ein Frevel machen sie Marinelli.",positive,positive,negative,positive,6527,6567
+501,"Machen Sie, dass ich ihn bald spreche den Prinz.",positive,positive,negative,positive,6568,6570
+502,"sonst bin ich es wohl gar nicht imstande sie sehen, wir sollen uns sprechen, wir müssen",positive,negative,negative,neutral,6572,6579
+503,uns sprechen,neutral,negative,negative,neutral,6580,6581
+504,Da ist er.,positive,positive,positiv,neutral,6584,6588
+505,"Unser schönste Gräfin wie sehr bedaure ich mal, dass ich mir die Ehre ihres Besuches für heute so wenig zunutze machen kann, ich bin beschäftigt.",neutral,positive,negative,neutral,6591,6602
+506,Ich bin nicht allein ein andermal meine liebe Gräfin ein andermal.,negative,negative,negative,neutral,6604,6610
+507,"Jetzt halten sie länger sich nicht auf, ja nicht länger und Sie.",negative,negative,negative,neutral,6613,6626
+508,"Haben Sie jetzt gnädige Gräfin nur von ihm selbst erfahren, was Sie mir nicht glauben wollte, ich habe ich wirklich ich bin beschäftigt, ich bin nicht allein ist das die Entschuldigung ganz die ich wert bin, für mich keine einzige Lüge mehr.",negative,negative,negative,neutral,6630,6649
+509,"Keine einzige kleine Lüge mehr, für mich? – Beschäftiget? womit denn? Nicht allein? wer wäre denn bei ihm? – Kommen Sie, Marinelli; aus Barmherzigkeit, lieber Marinelli! Lügen Sie mir eines auf eigene Rechnung vor. Was kostet Ihnen denn eine Lüge? – Was hat er zu tun? Wer ist bei ihm? – Sagen Sie mir; sagen sie mir, was Ihnen zuerst in den Mund kömmt, – und ich gehe. Geschwind, Marinelli; und ich gehe. – Er sagte ohnedem, der Prinz:",negative,negative,negative,neutral,6650,6682
+510,"Damit er mir Wort hält, damit er keinen Vorwand hat, mir nicht Wort zu halten: geschwind, Marinelli, Ihre Lüge; und ich gehe.
+Der Prinz, liebe Gräfin, ist wahrlich nicht allein. Es sind Personen bei ihm, von denen er sich keinen Augenblick abmüßigen kann; Personen, die eben einer großen Gefahr entgangen sind. Der Graf Appiani –
+Wäre bei ihm? – Schade, daß ich über diese Lüge Sie ertappen muß. Geschwind eine andere. – Denn Graf Appiani",negative,negative,positiv,positive,6685,6716
+511,Wenn Sie es noch nicht wissen ist eben von Räubern erschossen worden.,neutral,negative,positiv,neutral,6718,6723
+512,"Der Wagen mit seinem Leichnam begegnete mir kurz vor der Stadt, oder?",neutral,negative,positiv,positive,6724,6728
+513,Ist er nicht.,neutral,negative,negative,negative,6729,6730
+514,"Hätte es mir bloß geträumet?
+Leider nicht bloß geträumet! – Aber die andern, die mit dem Grafen waren, haben sich glücklich hierher nach dem Schlosse gerettet: seine Braut nämlich, und die Mutter der Braut, mit welchen er nach Sabionetta zu seiner feierlichen Verbindung fahren wollte.
+Also die? Die sind bei dem Prinzen? die Braut? und die Mutter der Braut? – Ist die Braut schön?
+Dem Prinzen geht ihr Unfall ungemein nahe.
+Ich will hoffen; auch wenn sie häßlich wäre. Wer ist sie denn, diese Braut? Kenn' ich sie gar? – Ich bin so lange aus der Stadt, daß ich von nichts weiß.
+Es ist Emilia Galotti.
+Wer? – Emilia Galotti? Emilia Galotti? – Marinelli! daß ich diese Lüge nicht für Wahrheit nehme!
+Wie so?
+Emilia Galotti?
+Die Sie schwerlich kennen werden –
+Doch! doch! Wenn es auch nur von heute wäre. – Im Ernst, Marinelli? Emilia Galotti?",positive,negative,positiv,positive,6731,6776
+515,"Emilia Galotti wäre die unglückliche Braut, die der Prinz tröstet? Bravo! o bravo! bravo! Wie das?
+Küssen möcht' ich den Teufel, der ihn dazu verleitet hat!
+Wen? verleitet? wozu?
+Ja, küssen, küssen möcht' ich ihn – Und wenn Sie selbst dieser Teufel wären, Marinelli.
+Gräfin!
+Kommen Sie her! Sehen Sie mich an! steif an! Aug' in Auge!
+Nun?
+Wissen Sie nicht, was ich denke?
+Wie kann ich das?
+Haben Sie keinen Anteil daran?
+Woran?
+Schwören Sie! – Nein, schwören Sie nicht. Sie möchten eine Sünde mehr begehen – Oder ja; schwören Sie nur. Eine Sünde mehr oder weniger für einen, der doch verdammt ist! – Haben Sie keinen Anteil daran?
+Sie erschrecken mich, Gräfin.
+Gewiß? – Nun, Marinelli, argwöhnt Ihr gutes Herz auch nichts?
+Was?",positive,negative,positiv,positive,6777,6833
+516,wohl,neutral,neutral,positiv,neutral,6835,6836
+517,"so will ich ihn etwas Vertrauen, aber hier so nah an der Türe möchte uns jemand hören kommen, sie kommen sie hierher kommt und hören Sie ganz in geheim.",neutral,positive,positiv,negative,6837,6848
+518,ganz in geheim der,neutral,neutral,negative,positive,6850,6855
+519,der Prinz,neutral,neutral,negative,neutral,6857,6859
+520,"Ist ein Mörder ich bin selten oder nie mit meinem Verstande so wohl zufrieden gewesen als eben jetzt zuverlässig machen, aber das bleibt der Prinz ist ein Mörderr des Grafen Appiani, den haben nicht Rüber, den haben Helfershelfer des Prinzen, den hat der prinz umgebracht man sich so Hals über Kopf aus der Welt hat teollen müssen mit dieser Emilia Galotti hat der Prinz heute morgen im Kreuzgang bei den Dominikanern?",negative,positive,positiv,negative,6861,6907
+521,ein langes und breites gesprochen,negative,neutral,negative,neutral,6909,6912
+522,Das weiß ich.,negative,negative,negative,neutral,6913,6914
+523,Das haben meine Kundschafter gesehen.,neutral,neutral,positiv,neutral,6915,6917
+524,"Sie haben auch gehört, was er mit ihr gesprochen.",neutral,positive,positiv,neutral,6918,6920
+525,Nun gut. Herr bin ich von Sinnen ich reime dächte ich doch noch ziemlich zusammen was zusammen gehört oder trifft auch das nur so von ungefähr zu ist ihnen auch das.,neutral,positive,positiv,positive,6922,6933
+526,Zufall Gräfin,neutral,neutral,positiv,neutral,6934,6937
+527,"sie würden sich um den Hals reden, wenn ich das",negative,neutral,negative,neutral,6939,6942
+528,"Desto besser, desto besser! – Morgen will ich es auf dem Markte ausrufen. – Und wer mir widerspricht – wer mir widerspricht, der war des Mörders Spießgeselle. – Leben Sie wohl. Verzeihen Sie, gnädige Frau –
+Ich habe hier nichts zu verzeihen. Denn ich habe hier nichts übel zu nehmen – An diesen Herrn wenden Sie sich. Nun vollends! der Alte! –
+Vergeben Sie, mein Herr, einem Vater, der in der 
+äußersten Bestürzung ist, – daß er so unangemeldet hereintritt.
+Vater?  Ha, willkommen!
+Ein Bedienter kam mir entgegen gesprengt, mit der Nachricht, daß hierherum die Meinigen in Gefahr wären. Ich fliege herzu, und höre, daß der Graf Appiani verwundet worden; daß er nach der Stadt zurückgekehret; daß meine Frau und Tochter sich in das Schloß gerettet.",negative,negative,positiv,positive,6945,6997
+529,"und Ihrer Tochter ist nichts Übles widerfahren; den Schreck ausgenommen. Sie befinden sich beide wohl. Der Prinz ist bei ihnen. Ich gehe sogleich, Sie zu melden.
+Warum melden? erst melden?",positive,negative,negative,neutral,7005,7018
+530,"von wegen – Von wegen des Prinzen. Sie wissen, Herr Oberster, wie Sie mit dem Prinzen stehen. Nicht auf dem freundschaftlichsten Fuße. So gnädig er sich gegen Ihre Gemahlin und Tochter bezeiget: – es sind Damen – Wird darum auch Ihr unvermuteter Anblick ihm gelegen sein?
+Sie haben Recht, mein Herr; Sie haben Recht.
+Aber, gnädige Gräfin, – kann ich vorher die Ehre haben, Sie nach Ihrem Wagen zu begleiten?
+Nicht doch, nicht doch.
+Erlauben Sie, daß ich meine Schuldigkeit beobachte. –
+Nur gemach! – Ich erlasse Sie deren, mein Herr. – Daß doch immer Ihres gleichen Höflichkeit zur Schuldigkeit machen; um was eigentlich ihre Schuldigkeit wäre, als die Nebensache betreiben zu dürfen! – Diesen würdigen Mann je eher je lieber zu melden, das ist Ihre Schuldigkeit.
+Vergessen Sie, was Ihnen der Prinz selbst befohlen?
+Er komme, und befehle es mir noch einmal.",positive,negative,positiv,negative,7020,7074
+531,"Mein Herr, ich muß Sie hier mit einer Dame lassen, die – der – mit deren Verstande – Sie verstehen mich. Ich sage Ihnen 
+dieses, damit Sie wissen, was Sie auf ihre Reden zu geben haben, – deren sie oft sehr seltsame führet. Am besten, Sie lassen sich mit ihr nicht ins Wort.
+Recht wohl. – Eilen Sie nur, mein Herr.
+Was er Ihnen auch da gesagt hat,",neutral,positive,negative,neutral,7078,7136
+532,Eine Wahrheit war es gewiss nicht.,neutral,negative,negative,neutral,7138,7141
+533,Am wenigsten eine von denen die auf sie warten.,neutral,positive,positiv,neutral,7144,7148
+534,Auf mich warten.,negative,positive,neutral,neutral,7150,7151
+535,"Weiß ich nicht schon genug? – Madame! – Aber, reden Sie nur, reden Sie nur.
+Sie wissen nichts.
+Nichts?",negative,negative,negative,neutral,7152,7161
+536,"Guter lieber Vater, was gäbe ich darum, wenn sie auch mein Vater wären oh verzeihen sie die Unglücklichen ketten sich so gern aneinander.",positive,positive,positiv,neutral,7169,7181
+537,Ich wollte treulich Schmerz und Wut mit Ihnen teilen.,positive,negative,negative,neutral,7182,7188
+538,Und wenn es gar ihre einzige Tochter ihr einziges Kind wäre.,neutral,negative,negative,neutral,7194,7203
+539,Wär einzig oder nicht? Das unglückliche Kind ist immer das einzige.,negative,negative,negative,neutral,7204,7208
+540,"Aber Gott, so sprich keinen Wahnwitz.",negative,neutral,negative,neutral,7218,7220
+541,wahnwitzig,neutral,neutral,negative,neutral,7221,7222
+542,"Das war's. Also, was er ihnen von mir vertraute nun nun es mag gleich keine von seinen größten Lügen sein, ich fühle sowas.",neutral,positive,negative,neutral,7223,7234
+543,Und glauben Sie glauben Sie mir?,neutral,neutral,negative,neutral,7236,7238
+544,Wer bei gewisse Dinge den Verstand nicht verliert.,neutral,negative,negative,neutral,7239,7242
+545,"Der hat keinen zu verlieren, auch sie haben Verstand auch Sie.",neutral,negative,negative,positive,7244,7249
+546,Und es kostet mich ein Wort.,negative,neutral,negative,positive,7251,7253
+547,so haben Sie kein,neutral,neutral,positiv,negative,7254,7255
+548,"Ich habe schon keinen mehr, noch ehe Sie mir dieses Wort sagen, wenn Sie mir es nicht bald sagen. – So merken Sie auf! – Was wissen Sie, der Sie schon genug wissen wollen? Daß Appiani verwundet worden? Nur verwundet? – Appiani ist tot!  Der Bräutigam ist tot: und die Braut – Ihre Tochter. Auch tot? Nein, sie lebt.",negative,negative,positiv,neutral,7257,7275
+549,"Sie wird nun erst recht anfangen zu leben, ein Leben voll Wonne das schönste lustigste Schlaraffen-Leben, solange das eben das einzige wollte mich um den Verstand bringen.",negative,negative,positiv,neutral,7277,7292
+550,des nachmittags hat er sie auf seinem Lustschloss.,positive,positive,positiv,neutral,7303,7308
+551,"Sprach sie in der Messe? Der Prinz meine Tochter?
+Mit einer Vertraulichkeit! mit einer Inbrunst! – Sie hatten nichts Kleines abzureden. Und recht gut, wenn es abgeredet worden; recht gut, wenn Ihre Tochter freiwillig sich hierher gerettet! Sehen Sie: so ist es doch keine gewaltsame Entführung; sondern bloß ein kleiner – kleiner Meuchel",negative,negative,positiv,positive,7311,7336
+552,verdammte Verleumdung. Ich kenne meine Tochter.,negative,negative,negative,neutral,7339,7340
+553,"Ist es Meuchelmord: so ist es auch Entführung. –  Nun, Claudia? Nun, Mütterchen? – Haben wir nicht Freude erlebt! O des gnädigen Prinzen! O der ganz besondern Ehre! Wunder, daß ich aus Eilfertigkeit nicht auch die Hände zurück gelassen! Nichts! gar nichts! nirgends! Damit kann ich aushelfen! Da nehmen Sie! Nehmen Sie geschwind, eh uns jemand sieht. – Auch hätte ich noch etwas, – Gift. Aber Gift ist nur für uns Weiber; nicht für Männer. – Nehmen Sie ihn! Stecken Sie bei Seite! geschwind bei Seite! – Mir wird die Gelegenheit versagt, Gebrauch davon zu machen. Ihnen wird sie nicht fehlen, diese Gelegenheit: und Sie werden sie ergreifen, die erste, die beste, – wenn Sie ein Mann sind.",negative,negative,negative,negative,7342,7394
+554,"ich bin ein Weib, aber",neutral,neutral,negative,neutral,7398,7400
+555,so kam ich her,negative,neutral,negative,neutral,7403,7404
+556,"nein, wir können das alles Vertrauen, wenn wir sind beide beleidigt von dem nämlichen Verführer beleidigt, wenn sie wüssten, wenn sie wüssten, wie überschwänglich wie unaussprechlich.",positive,negative,positiv,neutral,7411,7428
+557,Wie unbegreiflich von ihm beleidigt worden und noch werde.,negative,negative,negative,neutral,7430,7434
+558,die könnten,neutral,neutral,negative,neutral,7436,7436
+559,sie würden ihre eigene Beleidigung darüber verkennen kennen sie mich ich bin Orsina die Betrogene verlassene Orsina zwar vielleicht nur um ihre Tochter verlassen. Doch was kann ihre Tochter dafür?,negative,negative,negative,neutral,7437,7452
+560,Bald wird doch sie verlassen sein und dann wieder eine wieder eine und wieder eine.,negative,neutral,positiv,neutral,7454,7460
+561,welch eine himmlische,negative,positive,positiv,neutral,7462,7465
+562,wenn wir einmal alle,negative,negative,negative,neutral,7468,7470
+563,wir das ganze Heer der verlassenen wir alle in Bach Hand gehen hinein in Furien.,negative,negative,negative,negative,7471,7477
+564,Wenn wir alle in unter uns hätten.,negative,negative,positiv,negative,7479,7482
+565,In unter uns zerrissen zerfleischten sein Eingeweide durchwühlen um das Herz zu finden.,negative,negative,negative,neutral,7483,7494
+566,"Was soll ich dir sagen, wenn du noch nichts weißt? – Was soll ich dir sagen, wenn du schon alles weißt? – Aber wir sind unschuldig. Ich bin unschuldig. Deine Tochter ist unschuldig. Unschuldig, in allem unschuldig!
+Gut, gut. Sei nur ruhig, nur ruhig, – und antworte",negative,positive,positiv,neutral,7512,7528
+567,"Nicht war damals, ob ich noch zweifelte ist der Graf heute morgen Emilien in der Messe gesprochen, aber wenn du es nicht weil er nicht vorbei.",negative,negative,positiv,negative,7531,7563
+568,Ihre ersten Eindrücke nie möchte ich aber nach der geringsten Überlegung.,neutral,negative,positiv,neutral,7566,7570
+569,"Alles sich finden darf alles gefasst machen, dass wir wegkommen.",neutral,negative,positiv,neutral,7571,7576
+570,"Was zu tun? – Doch, Madame, Sie fahren ja nach der Stadt zurück?
+Nicht anders.
+Hätten Sie wohl die Gewogenheit, meine Frau mit sich zu nehmen?
+Warum nicht? Sehr gern.
+Claudia, die Gräfin Orsina.",positive,negative,positiv,neutral,7579,7592
+571,"eine Dame von großem Verstande; meine Freundin, meine Wohltäterin. – Du mußt mit ihr herein; um uns sogleich den Wagen heraus zu schicken. Emilia darf nicht wieder nach Guastalla. Sie soll mit mir.
+Aber – wenn nur – Ich trenne mich ungern von dem Kinde.
+Bleibt der Vater nicht in der Nähe?",neutral,negative,negative,neutral,7593,7611
+572,Sie werden von mir hören.,neutral,neutral,neutral,neutral,7619,7620
+573,Hier können Sie ihn sehen. Er geht die Arkadie auf und nieder.,neutral,positive,negative,neutral,7674,7679
+574,eben biegt er ein,neutral,positive,negative,neutral,7680,7682
+575,"Er kommt. Nein, er kehrt wieder um.",neutral,positive,negative,neutral,7683,7685
+576,So ganz einig ist er mit sich noch nicht.,neutral,negative,negative,neutral,7686,7690
+577,Aber um ein großes ruhig ist er oder scheint er für uns gleich.,neutral,positive,negative,neutral,7691,7697
+578,"Natürlich! Was ihm auch beide Weiber in den Kopf gesetzt haben, wird er es wagen zu äußern? Wenn er nun aber so zahm nicht ist? Und schwerlich, schwerlich wird er es sein. Ich kenne ihn zu gut. – Wenn er höchstens seinen Argwohn erstickt, seine Wut verbeißt: aber Emilien, anstatt sie nach der Stadt zu fahren, mit sich nimmt? bei sich behält? oder wohl gar in ein Kloster, außer meinem Gebiete, verschließt? Wie dann?",negative,negative,negative,negative,7699,7721
+579,Was wird es uns dann helfen?,neutral,positive,negative,neutral,7727,7729
+580,Dass der unglückliche Graf sein Leben.,negative,negative,negative,negative,7730,7733
+581,"Geben Sie Acht, wenn er nun vor Ihnen erscheinet, wird er ganz untertänigst Eurer Durchlaucht für den gnädigen Schutz danken, den seine Familie bei diesem so traurigen Zufalle hier gefunden; wird sich, mit samt seiner Tochter, zu fernerer Gnade empfehlen; wird sie ruhig nach der Stadt bringen,",neutral,positive,negative,neutral,7739,7755
+582,"und es in tiefster Unterwerfung erwarten, welchen weitern Anteil Euer Durchlaucht an seinem unglücklichen, lieben Mädchen zu nehmen geruhen wollen.",positive,negative,negative,neutral,7757,7765
+583,"mein lieber, rechtschaffner Galotti, – so etwas muß auch geschehen, wenn ich Sie bei mir sehen soll. Um ein geringeres tun Sie es nicht. Doch keine Vorwürfe!
+Gnädiger Herr, ich halte es in allen Fällen für unanständig, 
+sich zu seinem Fürsten zu drängen. Wen er kennt, den wird er fodern lassen, wenn er seiner bedarf. Selbst jetzt bitte ich um Verzeihung –
+Wie manchem andern wollte ich diese stolze Bescheidenheit wünschen!",neutral,negative,negative,negative,7774,7802
+584,"Ich wartete nur, daß die liebenswürdige Emilie sich völlig erholet hätte, um beide im Triumphe nach der Stadt zu bringen. Sie haben mir diesen Triumph um die Hälfte verkümmert; aber ganz werde ich mir ihn nicht nehmen lassen.
+Zu viel Gnade! – Erlauben Sie, Prinz, daß ich meinem unglücklichen Kinde alle die mannichfaltigen Kränkungen erspare, die Freund und Feind, Mitleid und Schadenfreude in Guastalla für sie bereit halten.",positive,negative,negative,neutral,7804,7832
+585,"Um die süßen Kränkungen des Freundes und des Mitleids, würde es Grausamkeit sein, sie zu bringen. Daß aber die Kränkungen des Feindes und der Schadenfreude sie nicht erreichen sollen; dafür, lieber Galotti, lassen Sie mich sorgen.
+Prinz, die väterliche Liebe teilet ihre Sorgen nicht gern. – ",neutral,negative,negative,negative,7834,7849
+586,"Sie soll nicht mehr nach Guastalla.
+Nicht? und warum nicht?
+Der Graf ist tot.
+Um so viel mehr –
+Sie soll mit mir.
+Mit Ihnen?
+Mit mir. Ich sage Ihnen ja, der Graf ist tot. – Wenn Sie es noch nicht wissen – Was hat sie nun weiter in Guastalla",negative,negative,positiv,neutral,7850,7865
+587,"ich denke, ich weiß es was meiner Tochter",neutral,negative,negative,neutral,7867,7868
+588,so viel Schönheit.,positive,positive,neutral,neutral,7879,7881
+589,Soll in Abgeschiedenheit verblühen?,negative,neutral,neutral,neutral,7883,7885
+590,Darf uns den eine einzige fehlgeschlagen Hoffnung gegen die Welt so unversöhnlich?,negative,positive,positiv,negative,7887,7893
+591,doch allerdings,neutral,neutral,neutral,negative,7897,7898
+592,dem Vater,neutral,neutral,neutral,negative,7899,7900
+593,hat niemand einzureden bringen sie ihre Tochter.,neutral,negative,negative,negative,7901,7905
+594,Galotti,neutral,neutral,neutral,negative,7907,7908
+595,Wohin Sie wollen! es geht mir nahe.,negative,positive,positiv,neutral,7913,7916
+596,"der Gnade meines Fürsten in den Weg zu treten. Doch wenn die Freundschaft gebietet, vor allem in ihm den Richter aufzufodern –
+Welche Freundschaft? –
+Sie wissen, gnädiger Herr, wie sehr ich den Grafen Appiani liebte; wie sehr unser beider Seelen in einander verwebt schienen –
+Das wissen Sie, Prinz? So wissen Sie es wahrlich allein.",positive,positive,negative,neutral,7917,7935
+597,"Marinelli, der Name Marinelli war das letzte Wort des sterbenden Grafen: und in einem Tone! in einem Tone! – Daß er mir nie aus dem Gehöre komme dieser schreckliche Ton, wenn ich nicht alles anwende, daß seine Mörder entdeckt und bestraft werden!",positive,negative,negative,neutral,7940,7958
+598,Rechnen Sie auf meine kräftigste Mitwirkung und nein.,positive,positive,negative,neutral,7960,7964
+599,"Aber was weiter, das frag ich.",negative,positive,negative,neutral,7968,7970
+600,"Man hat Verdacht, daß es nicht Räuber gewesen, welche den Grafen angefallen.
+Nicht? wirklich nicht?
+Daß ein Nebenbuhler ihn aus dem Wege räumen lassen.
+Ei! ein Nebenbuhler?
+Nicht anders. Ein Nebenbuhler, und ein begünstigter Nebenbuhler –
+Was? ein begünstigter? – Was sagen Sie?
+Nichts' als was das Gerüchte verbreitet.
+Ein begünstigter? von meiner Tochter begünstiget?
+Das ist gewiß nicht. Das kann nicht sein. Dem widersprech' ich, trotz Ihnen. – Aber bei dem allen, gnädiger Herr, – Denn das gegründetste Vorurteil wieget auf der 
+Waage der Gerechtigkeit so viel als nichts – bei dem allen wird man doch nicht umhin können, die schöne Unglückliche darüber zu vernehmen.",negative,negative,negative,negative,7975,8011
+601,"Ja, wo allerdings woanders wo kann das anders geschehen als in Cuastalla?",neutral,neutral,negative,neutral,8012,8019
+602,Da haben sie recht marinelli da haben sie recht.,neutral,negative,negative,neutral,8020,8024
+603,hier,neutral,neutral,neutral,neutral,8026,8026
+604,so,neutral,neutral,neutral,neutral,8028,8028
+605,Das verändert die Sache lieber Galotti.,neutral,positive,neutral,neutral,8029,8031
+606,"Ich sehe, was ich sehe.",positive,neutral,negative,neutral,8036,8037
+607,"Gott!
+Was ist Ihnen? was haben Sie mit sich?
+Daß ich es nicht vorausgesehen, was ich da sehe. Das ärgert mich: weiter nichts. – Nun ja; sie soll wieder nach Guastalla. Ich will sie wieder zu ihrer Mutter bringen: und bis die strengste Untersuchung sie frei gesprochen, will ich selbst aus Guastalla nicht weichen. Denn wer weiß, – wer weiß, ob die Gerechtigkeit nicht auch nötig findet, mich zu vernehmen.
+Sehr möglich! In solchen Fällen tut die Gerechtigkeit lieber zu viel, als zu wenig. – Daher fürchte ich sogar –
+Was? was fürchten Sie?
+Man werde vor der Hand nicht verstatten können, daß Mutter und Tochter sich sprechen.",positive,negative,negative,negative,8041,8079
+608,"Sich nicht spreche. Ja, man werde genötigt sein Mutter und Tochter zu trennen.",negative,negative,negative,neutral,8080,8085
+609,"Mutter und Tochter zu trennen, der Mutter und Tochter und Vater",negative,negative,negative,neutral,8087,8091
+610,"Die Form des Verhörs erfodert diese Vorsichtigkeit schlechterdings. Und es tut mir leid, daß ich mich gezwungen sehe, ausdrücklich darauf anzutragen, wenigstens Emilien in eine besondere Verwahrung zu bringen.",neutral,negative,negative,negative,8093,8105
+611,"Prinz? nicht? – O wie fein die Gerechtigkeit ist! Vortrefflich! Fassen Sie sich, lieber Galotti –
+Das sprach sein Engel!
+Sie sind irrig; Sie verstehen ihn nicht. Sie denken bei dem Worte Verwahrung, wohl gar an Gefängnis und Kerker.
+Lassen Sie mich daran denken: und ich bin ruhig!
+Kein Wort von Gefängnis, Marinelli! Wenn Emilia in besondere Verwahrung gebracht werden muß: so weiß ich schon – die alleranständigste. Das Haus meines Kanzlers – Keinen Widerspruch, Marinelli! – Da will ich sie selbst hinbringen, da will ich sie der Aufsicht einer der würdigsten Damen übergeben. Die soll mir für sie bürgen, haften. – Sie gehen zu weit, Marinelli, wirklich zu weit, wenn Sie mehr verlangen. – Sie kennen doch, Galotti, meinen Kanzler Grimaldi, und seine Gemahlin?
+Was sollt' ich nicht? Sogar die liebenswürdigen Töchter dieses edeln Paares kenn' ich. Wer kennt sie nicht?  Ja wohl hat sie Recht die gute Sibylle: Wer über gewisse Dinge seinen Verstand nicht verlieret, der hat keinen zu verlieren!",positive,negative,positiv,positive,8115,8175
+612,"Lieber Galotti, was kann ich mehr tun? – Lassen Sie es dabei: ich bitte Sie. – Ja, ja, in das Haus meines Kanzlers! da soll sie hin; da bring' ich sie selbst hin; und wenn ihr da nicht mit der äußersten Achtung begegnet wird, so hat mein Wort nichts gegolten. – Dabei bleibt es! dabei bleibt es! – Sie selbst, Galotti, mit sich, können es halten, wie Sie wollen. Sie können uns nach Guastalla folgen; Sie können nach Sabionetta zurückkehren: wie Sie wollen. Es wäre lächerlich, Ihnen vorzuschreiben. – Und nun, auf Wiedersehen, lieber Galotti! – Kommen Sie, Marinelli: es wird spät.
+Wie? so soll ich sie gar nicht sprechen meine Tochter? Auch hier nicht? – Ich lasse mir ja alles gefallen; ich finde ja alles ganz vortrefflich. Das Haus eines Kanzlers ist natürlicher Weise eine Freistatt der Tugend.",positive,negative,positiv,positive,8175,8228
+613,"Der Tod des Grafen ist ihr noch unbekannt. Sie wird nicht begreifen können, warum man sie von ihren Eltern trennt. Ihr jenen auf gute Art beizubringen; sie dieser Trennung wegen zu beruhigen; – muß ich sie sprechen, gnädiger Herr, muß ich sie sprechen. Unter vier Augen bin ich gleich mit ihr fertig bin.",positive,negative,positiv,neutral,8235,8251
+614,Wer lacht da,negative,positive,negative,neutral,8276,8276
+615,spiel geht zu Ende so oder so.,negative,negative,negative,neutral,8283,8285
+616,aber wenn sie,neutral,neutral,negative,neutral,8287,8288
+617,"ich tun, was will ich denn für sie tun?",neutral,negative,neutral,neutral,8296,8298
+618,"Da denke ich sowas sowas, was ich nur denken lässt.",neutral,positive,negative,neutral,8302,8305
+619,"Fort, fort ich will sie nicht aber",negative,negative,negative,neutral,8306,8308
+620,nein.,negative,neutral,negative,neutral,8310,8311
+621,Wer sie unschuldig in diesen Abgrund gestürzt hat zieht sie jetzt hier wieder heraus.,negative,negative,negative,neutral,8312,8316
+622,"Sie hier, mein Vater.",neutral,neutral,positiv,neutral,8337,8341
+623,Und der Graf nicht hier.,negative,negative,negative,neutral,8346,8349
+624,"Wo ich sein kann und ruhig sein müssen, kommt das nicht auf ein.",neutral,negative,positiv,neutral,8357,8361
+625,"Alles verloren, dass wir wohl ruhig sein müssen.",neutral,negative,positiv,neutral,8364,8369
+626,"So ist sie wahr. Die ganze schreckliche Geschichte, die ich in den nassen Augen.",neutral,positive,positiv,neutral,8394,8398
+627,wo ist meine Mutter,negative,neutral,positiv,neutral,8400,8401
+628,"Voraus, wenn wir ihr denn nachkommen.",positive,negative,negative,negative,8403,8407
+629,"Warum, was verweilen wir noch hier. Du bist, du bleibst.",neutral,negative,positiv,neutral,8413,8417
+630,Bleibe in seinen Händen.,neutral,neutral,negative,neutral,8420,8421
+631,Ohne deine Mutter ohne mich.,negative,neutral,positiv,neutral,8423,8425
+632,Ich allein in seinen Händen.,negative,neutral,negative,neutral,8440,8443
+633,Lassen Sie mich nur,neutral,positive,negative,neutral,8450,8452
+634,lassen Sie mich,neutral,positive,negative,neutral,8455,8456
+635,ich will doch sehen wer mich hält,negative,neutral,negative,neutral,8463,8464
+636,"aber was nennen sie ruhig sein die Hände in den Schoß legen leiden, was man nicht solltet dulden, was man nicht dürfte.",negative,negative,positiv,neutral,8479,8488
+637,"Wenn du so denkst,  wenn das deine Ruhe ist: so habe ich meine in ihr wiedergefunden! Denke nur: unter dem Vorwande einer gerichtlichen Untersuchung, – o des höllischen Gaukelspieles! – reißt er dich aus unsern Armen, und bringt dich zur Grimaldi.
+Reißt mich? bringt mich? – Will mich reißen; will mich bringen:",negative,positive,positiv,neutral,8489,8507
+638,Mir geben Sie diesen Dolch.,neutral,neutral,positiv,neutral,8522,8523
+639,Habe Blut.,negative,neutral,positiv,neutral,8537,8538
+640,Mein Vater sogar mal so jugendliches Blut als eine.,negative,neutral,positiv,neutral,8540,8546
+641,Auch meine Sinne sind Sinne.,negative,positive,negative,neutral,8547,8549
+642,"Ich stehe für nichts, ich bin für nichts gut.",negative,positive,positiv,neutral,8551,8555
+643,"Ich kenne das Haus der Grimaldis ist das Haus der Freude eine Stunde da unter den Augen meiner Mutter und es erhob sich so mancher Tumult in meiner Seele den die strengsten Übungen der Religion, kaum in Wochen, besänftigen konnten. Der Religion.",negative,positive,positiv,neutral,8558,8576
+644,Und welcher Religion?,negative,neutral,negative,neutral,8577,8579
+645,Geben Sie mir mein Vater.,positive,neutral,negative,neutral,8582,8584
+646,"Gewalt, Wer kann der Gewalt nicht trotzen, was Gewalt heißt ist nichts.",negative,negative,positiv,neutral,8585,8600
+647,Verführung ist die wahre Gewalt.,neutral,negative,positiv,neutral,8601,8604
+648,Geben Sie mir mein Vater.,neutral,neutral,positiv,neutral,8606,8607
+649,"geben Sie mir diesen Dolch, und wenn ich dir ihn nun gebe, nein, das ist nicht für deine Hand.",negative,negative,positiv,neutral,8609,8625
+650,"Du gehörest nicht in das Haar einer, – wie mein Vater will, daß ich werden soll!",negative,negative,positiv,negative,8630,8644
+651,"Wird ihm wohl gab es einen Vater, der seine Tochter vor der Schande zu retten ihr den ersten den besten Stahl in das Herz senkte und ihr zum zweiten mal",negative,positive,positiv,positive,8646,8658
+652,Aber alle solche Taten sind von eh dem,negative,neutral,positiv,positive,8663,8667
+653,Und solcher Väter gibt es keine mehr.,negative,neutral,negative,positive,8669,8672
+654,Lass dich umarmen meine Tochter.,positive,positive,neutral,neutral,8685,8689
+655,"Das Weib wollte die Natur zu ihrem Meisterstücke machen, aber sie vergriff sich im Ton und sie nahm ihn zu fein, sonst ist alles besser an euch hat als an uns.",positive,positive,negative,neutral,8691,8701
+656,Lass dich umarmen meine Tochter.,positive,positive,negative,negative,8713,8716
+657,Gott was habe ich getan?,negative,negative,positiv,neutral,8734,8737
+658,Rose gebrochen,negative,negative,positiv,neutral,8739,8741
+659,ehe der Sturm sie entblättert.,positive,neutral,positiv,neutral,8742,8745
+660,sie mein Vater.,neutral,neutral,positiv,neutral,8747,8750
+661,ich selbst,neutral,neutral,negative,neutral,8751,8752
+662,"ich selbst, nich du meine Tochter nicht du",negative,negative,negative,neutral,8753,8755
+663,Kenne keine Unwahrheit aus der Welt.,positive,negative,negative,neutral,8756,8758
+664,ziehen,neutral,neutral,neutral,neutral,8763,8764
+665,nun da,negative,neutral,positiv,neutral,8792,8792
+666,"gefällt sie ihnen noch, reizt sie noch ihre Lüste, noch in diesem Blut.",negative,positive,negative,neutral,8798,8805
+667,Aber sie erwarten wohl.,neutral,neutral,negative,neutral,8812,8813
+668,Das alles hinausschaut.,neutral,neutral,negative,neutral,8814,8816
+669,Hier warst du vielleicht dass ich dich ein Star wieder mich selbst gehen werde.,neutral,negative,negative,neutral,8817,8822
+670,"Hier liegt er, der blutige zeuge meine Verbrechen.",negative,positive,negative,neutral,8830,8833
+671,"Ich gehe und liefere mich selbst in das Gefängnis, ich gehe und erwartete sie als Richter.",negative,neutral,positiv,neutral,8837,8845
+672,Dann erwarte ich sie vor dem Richter unser aller.,negative,neutral,positiv,neutral,8847,8852
